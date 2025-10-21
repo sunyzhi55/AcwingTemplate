@@ -6,23 +6,23 @@
 
 ### 1.1 快速排序
 
-练习连接：
+> 练习链接：
+>
+> 1、leetcode: https://leetcode.cn/problems/sort-an-array/description/
+>
+> 2、洛谷：
+>
+> （1）题目
+>
+> https://www.luogu.com.cn/problem/U239911
+>
+> https://www.luogu.com.cn/problem/P1177
+>
+> （2）题单
+>
+> https://www.luogu.com.cn/training/189070#information
 
-1、leetcode: https://leetcode.cn/problems/sort-an-array/description/
-
-2、洛谷：
-
-（1）题目
-
-https://www.luogu.com.cn/problem/U239911
-
-https://www.luogu.com.cn/problem/P1177
-
-（2）题单
-
-https://www.luogu.com.cn/training/189070#information
-
-（3）AcWing题目
+AcWing题目
 
 ![image-20240112142305656](assets/image-20240112142305656.png)
 
@@ -60,7 +60,17 @@ int main(){
 
 ## 2 归并排序
 
+> 洛谷题单：
+>
+> 1、[快速排序和归并排序 - 题单 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/training/784214)
+>
+> 2、[归并排序 - 题单 - 洛谷 | 计算机科学教育新生态](https://www.luogu.com.cn/training/13545)
+
 ### 2.1 归并排序
+
+AcWing 题目：
+
+
 
 ![image-20240112142425253](assets/image-20240112142425253.png)
 
@@ -99,6 +109,18 @@ int main(){
 ```
 
 ### 2.2 逆序对的数量
+
+> [!important]
+>
+> 洛谷：
+>
+> 1、https://www.luogu.com.cn/problem/U232725
+>
+> 2、[P1908 逆序对 - 洛谷](https://www.luogu.com.cn/problem/P1908)
+
+AcWing 题目：
+
+
 
 ![image-20240112142506445](assets/image-20240112142506445.png)
 
@@ -141,7 +163,31 @@ int main(){
 
 ## 3 二分
 
+> [!important]
+>
+> （1）洛谷题单：
+>
+> 1、https://www.luogu.com.cn/training/111
+>
+> 2、https://www.luogu.com.cn/training/545539
+>
+> 3、https://www.luogu.com.cn/training/138949
+>
+> （2）进阶：二分答案法
+>
+> https://www.luogu.com.cn/training/10364
+
 ### 3.1 数的范围（整数二分）
+
+洛谷题目：
+
+https://www.luogu.com.cn/problem/U383691
+
+
+
+Acwing 题目：
+
+
 
 ![image-20240112142601494](assets/image-20240112142601494.png)
 
@@ -213,6 +259,16 @@ int main(){
 ```
 
 ### 3.2 数的三次方根（浮点数二分）
+
+洛谷：
+
+https://www.luogu.com.cn/problem/U269029
+
+https://www.luogu.com.cn/problem/T627060
+
+
+
+AcWing题目：
 
 ![image-20240112142635251](assets/image-20240112142635251.png)
 
