@@ -1,3 +1,12 @@
+---
+date: 2025-10-21T22:01:00
+tags:
+  - C++
+  - Algorithm
+---
+
+
+
 # AcWing——算法基础课
 
 # 第一讲 基础算法
@@ -20,7 +29,7 @@
 >
 > （2）题单
 >
-> https://www.luogu.com.cn/training/189070#information
+> https://www.luogu.com.cn/training/18907
 
 AcWing题目
 
