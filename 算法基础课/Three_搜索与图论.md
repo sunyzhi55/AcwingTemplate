@@ -6,7 +6,7 @@
 
 #### 1.排列数字
 
-![image-20240130161746893](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240130161746893.png)
+![image-20240130161746893](assets/image-20240130161746893.png)
 
 ```c++
 #include<iostream>
@@ -51,9 +51,9 @@ int main()
 
 
 
-![image-20240131095222180](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240131095222180.png)
+![image-20240131095222180](assets/image-20240131095222180.png)
 
-![image-20240131112533511](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240131112533511.png)
+![image-20240131112533511](assets/image-20240131112533511.png)
 
 ```c++
 #include <iostream>
@@ -105,13 +105,13 @@ int main() {
 
 ### BFS
 
-![image-20240202111037140](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240202111037140.png)
+![image-20240202111037140](assets/image-20240202111037140.png)
 
 #### 1.走迷宫
 
-![image-20240131143848023](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240131143848023.png)
+![image-20240131143848023](assets/image-20240131143848023.png)
 
-![image-20240131161338393](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240131161338393.png)
+![image-20240131161338393](assets/image-20240131161338393.png)
 
 ```c++
 #include <iostream>
@@ -179,7 +179,7 @@ int main()
 
 #### 2.八数码
 
-![image-20240131163524526](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240131163524526.png)
+![image-20240131163524526](assets/image-20240131163524526.png)
 
 ```c++
 #include <iostream>
@@ -270,13 +270,13 @@ int dfs(int u)
 
 #### 树的重心
 
-![image-20240202144411302](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240202144411302.png)
+![image-20240202144411302](assets/image-20240202144411302.png)
 
 
 
 
 
-![image-20240202171248800](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240202171248800.png)
+![image-20240202171248800](assets/image-20240202171248800.png)
 
 ```c++
 
@@ -462,7 +462,7 @@ bool topsort()
 
 #### 有向图的拓扑序列
 
-![image-20240203114310300](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240203114310300.png)
+![image-20240203114310300](assets/image-20240203114310300.png)
 
 ```c++
 #include <iostream>
@@ -530,7 +530,7 @@ int main()
 
 #### 1.Dijkstra求最短路 I
 
-![image-20240203150841562](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240203150841562.png)
+![image-20240203150841562](assets/image-20240203150841562.png)
 
 ```c++
 //朴素Dijkstra算法，时间复杂度O(n*n+m)，n表示点数，m表示边数
@@ -638,7 +638,7 @@ int main()
 
 #### 2.Dijkstra求最短路 II
 
-![image-20240204093023259](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240204093023259.png)
+![image-20240204093023259](assets/image-20240204093023259.png)
 
 ```c++
 //堆优化版Dijkstra算法，时间复杂度O(mlogn)，n表示点数，m表示边数
@@ -763,16 +763,16 @@ int main()
 
 #### 有边数限制的最短路
 
-![image-20240204105709396](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240204105709396.png)
+![image-20240204105709396](assets/image-20240204105709396.png)
 
 为什么是dist[n]>0x3f3f3f3f/2， 而不是dist[n] == 0x3f3f3f3f
-![4.PNG](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/652_1aa3df28a4-4.PNG)
+![4.PNG](assets/652_1aa3df28a4-4.PNG)
 
 为什么需要last[a]数组
 
-![2.PNG](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/652_8fb5d1dca4-2.PNG)
+![2.PNG](assets/652_8fb5d1dca4-2.PNG)
 
-![3.PNG](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/652_bf119614a4-3.PNG)
+![3.PNG](assets/652_bf119614a4-3.PNG)
 
 ```c++
 
@@ -871,7 +871,7 @@ int main()
 
 #### 1.spfa求最短路
 
-![image-20240204145128620](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240204145128620.png)
+![image-20240204145128620](assets/image-20240204145128620.png)
 
 
 
@@ -1013,7 +1013,7 @@ int main()
 
 #### 2.spfa判断负环
 
-![image-20240204152907404](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240204152907404.png)
+![image-20240204152907404](assets/image-20240204152907404.png)
 
 ```c++
 
@@ -1142,7 +1142,7 @@ int main()
 
 
 
-![image-20240205145217224](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240205145217224.png)
+![image-20240205145217224](assets/image-20240205145217224.png)
 
 ```c++
 
@@ -1212,13 +1212,13 @@ int main() {
 
 
 
-![image-20240205153426993](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240205153426993.png)
+![image-20240205153426993](assets/image-20240205153426993.png)
 
 ### Prim
 
 #### Prim算法求最小生成树
 
-![image-20240205160356226](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240205160356226.png)
+![image-20240205160356226](assets/image-20240205160356226.png)
 
 ```c++
 //朴素版prim算法，时间复杂度是O(n*n+m)，n表示点数，m表示边数
@@ -1328,7 +1328,7 @@ int main()
 
 #### Kruskal算法求最小生成树
 
-![image-20240206173236341](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240206173236341.png)
+![image-20240206173236341](assets/image-20240206173236341.png)
 
 ```c++
 //时间复杂度是O(mlogm)，m表示边数
@@ -1469,7 +1469,7 @@ int main()
 
 #### 染色法判定二分图
 
-![image-20240207145306447](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240207145306447.png)
+![image-20240207145306447](assets/image-20240207145306447.png)
 
 ```c++
 
@@ -1553,7 +1553,7 @@ int main()
 
 #### 二分图的最大匹配
 
-![image-20240207164717001](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240207164717001.png)
+![image-20240207164717001](assets/image-20240207164717001.png)
 
 ```c++
 
@@ -1631,5 +1631,5 @@ int main()
 
 
 
-![image-20240208134725963](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240208134725963.png)
+![image-20240208134725963](assets/image-20240208134725963.png)
 

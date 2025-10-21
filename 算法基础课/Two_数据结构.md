@@ -1,13 +1,12 @@
 # AcWing——算法基础课
 
-
 ## 第二讲 数据结构
 
 ### 单链表
 
 #### 单链表
 
-![image-20240117154736639](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240117154736639.png)
+![image-20240117154736639](assets/image-20240117154736639.png)
 
 ```c++
 //单链表模板
@@ -110,7 +109,7 @@ int main(){
 
 #### 双链表
 
-![image-20240117164341619](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240117164341619.png)
+![image-20240117164341619](assets/image-20240117164341619.png)
 
 ```c++
 //双链表模板
@@ -211,7 +210,7 @@ int main(){
 
 #### 1.模拟栈
 
-![image-20240118094554429](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240118094554429.png)
+![image-20240118094554429](assets/image-20240118094554429.png)
 
 ```c++
 //栈模板
@@ -271,7 +270,7 @@ int main(){
 
 #### 2.表达式求值
 
-![image-20240118101220859](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240118101220859.png)
+![image-20240118101220859](assets/image-20240118101220859.png)
 
 ```c++
 #include <iostream>
@@ -359,7 +358,7 @@ int main()
 
 #### 模拟队列
 
-![image-20240120102239602](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240120102239602.png)
+![image-20240120102239602](assets/image-20240120102239602.png)
 
 ```c++
 //模拟普通队列模板
@@ -452,7 +451,7 @@ int main(){
 
 #### 单调栈
 
-![image-20240120170024084](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240120170024084.png)
+![image-20240120170024084](assets/image-20240120170024084.png)
 
 ```c++
 //单调栈常见模型：找出每个数左边离它最近的比它大/小的数
@@ -495,7 +494,7 @@ int main(){
 
 #### 滑动窗口
 
-![image-20240120203412724](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240120203412724.png)
+![image-20240120203412724](assets/image-20240120203412724.png)
 
 ```c++
 //单调队列常见模型：找出滑动窗口中的最大值/最小值
@@ -555,7 +554,7 @@ int main(){
 
 #### KMP字符串
 
-![image-20240122110906061](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240122110906061.png)
+![image-20240122110906061](assets/image-20240122110906061.png)
 
 
 
@@ -580,7 +579,7 @@ int main(){
 
 
 
-![image-20240122173501859](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240122173501859.png)
+![image-20240122173501859](assets/image-20240122173501859.png)
 
 ```c++
 // s[]是长文本，p[]是模式串，m是s的长度，n是p的长度
@@ -662,11 +661,11 @@ int main(){
 
 #### 1.Trie字符串统计
 
-![image-20240123153627492](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240123153627492.png)
+![image-20240123153627492](assets/image-20240123153627492.png)
 
-![image-20240123170847767](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240123170847767.png)
+![image-20240123170847767](assets/image-20240123170847767.png)
 
-![image-20240123155741555](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240123155741555.png)
+![image-20240123155741555](assets/image-20240123155741555.png)
 
 
 
@@ -761,7 +760,7 @@ int main()
 
 #### 2.最大异或对
 
-![image-20240123170151813](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240123170151813.png)
+![image-20240123170151813](assets/image-20240123170151813.png)
 
 ```c++
 #include<iostream>
@@ -911,9 +910,9 @@ int main()
 
 #### 1.合并集合
 
-![image-20240124160753483](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240124160753483.png)
+![image-20240124160753483](assets/image-20240124160753483.png)
 
-![image-20240124171038450](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240124171038450.png)
+![image-20240124171038450](assets/image-20240124171038450.png)
 
 ```c++
 #include<iostream>
@@ -952,7 +951,7 @@ int main()
 
 #### 2.连通块中点的数量
 
-![image-20240125093449764](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240125093449764.png)
+![image-20240125093449764](assets/image-20240125093449764.png)
 
 ```c++
 #include <iostream>
@@ -1002,11 +1001,11 @@ int main(){
 
 #### 3.食物链
 
-![image-20240125102343329](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240125102343329.png)
+![image-20240125102343329](assets/image-20240125102343329.png)
 
-![image-20240125153340738](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240125153340738.png)
+![image-20240125153340738](assets/image-20240125153340738.png)
 
-![image-20240125163650313](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240125163650313.png)
+![image-20240125163650313](assets/image-20240125163650313.png)
 
 ```c++
 #include <iostream>
@@ -1169,11 +1168,11 @@ for (int i = n / 2; i; i -- ) down(i);
 
 #### 1.堆排序
 
-![image-20240127094326716](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240127094326716.png)
+![image-20240127094326716](assets/image-20240127094326716.png)
 
-![image-20240127105125952](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240127105125952.png)
+![image-20240127105125952](assets/image-20240127105125952.png)
 
-![image-20240127124022348](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240127124022348.png)
+![image-20240127124022348](assets/image-20240127124022348.png)
 
 ```c++
 
@@ -1227,7 +1226,7 @@ int main()
 
 #### 2.模拟堆
 
-![image-20240127163204584](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240127163204584.png)
+![image-20240127163204584](assets/image-20240127163204584.png)
 
 ```c++
 #include<iostream>
@@ -1365,7 +1364,7 @@ ULL get(int l, int r)
 
 #### 1.模拟散列表
 
-![image-20240130095753364](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240130095753364.png)
+![image-20240130095753364](assets/image-20240130095753364.png)
 
 ```c++
 
@@ -1472,7 +1471,7 @@ int main() {
 
 #### 2.字符串哈希
 
-![image-20240130153724262](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240130153724262.png)
+![image-20240130153724262](assets/image-20240130153724262.png)
 
 ```c++
 #include <iostream>
@@ -1514,7 +1513,7 @@ int main(){
 
 ### C++ STL简介
 
-```
+```markdown
 vector, 变长数组，倍增的思想
     size()  返回元素个数
     empty()  返回是否为空
@@ -1598,7 +1597,7 @@ unordered_set, unordered_map, unordered_multiset, unordered_multimap, 哈希表
     和上面类似，增删改查的时间复杂度是 O(1)
     不支持 lower_bound()/upper_bound()， 迭代器的++，--
 
-bitset, 圧位
+bitset, 压位
     bitset<10000> s;
     ~, &, |, ^
     >>, <<
@@ -1617,5 +1616,4 @@ bitset, 圧位
     flip(k) 把第k位取反
 
 ```
-
 

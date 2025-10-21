@@ -6,7 +6,25 @@
 
 ### 1.1 快速排序
 
-![image-20240112142305656](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240112142305656.png)
+练习连接：
+
+1、leetcode: https://leetcode.cn/problems/sort-an-array/description/
+
+2、洛谷：
+
+（1）题目
+
+https://www.luogu.com.cn/problem/U239911
+
+https://www.luogu.com.cn/problem/P1177
+
+（2）题单
+
+https://www.luogu.com.cn/training/189070#information
+
+（3）AcWing题目
+
+![image-20240112142305656](assets/image-20240112142305656.png)
 
 ```c++
 #include<iostream>
@@ -44,7 +62,7 @@ int main(){
 
 ### 2.1 归并排序
 
-![image-20240112142425253](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240112142425253.png)
+![image-20240112142425253](assets/image-20240112142425253.png)
 
 ```c++
 #include<iostream>
@@ -82,7 +100,7 @@ int main(){
 
 ### 2.2 逆序对的数量
 
-![image-20240112142506445](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240112142506445.png)
+![image-20240112142506445](assets/image-20240112142506445.png)
 
 ```c++
 #include<iostream>
@@ -125,7 +143,7 @@ int main(){
 
 ### 3.1 数的范围（整数二分）
 
-![image-20240112142601494](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240112142601494.png)
+![image-20240112142601494](assets/image-20240112142601494.png)
 
 ```c++
 //整数二分法模板
@@ -196,7 +214,7 @@ int main(){
 
 ### 3.2 数的三次方根（浮点数二分）
 
-![image-20240112142635251](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240112142635251.png)
+![image-20240112142635251](assets/image-20240112142635251.png)
 
 ```c++
 //浮点数二分模板
@@ -240,7 +258,7 @@ int main(){
 
 ### 4.1 高精度加法
 
-![image-20240112142712055](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240112142712055.png)
+![image-20240112142712055](assets/image-20240112142712055.png)
 
 ```c++
 #include<iostream>
@@ -279,7 +297,7 @@ int main(){
 
 ### 4.2 高精度减法
 
-![image-20240112142741757](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240112142741757.png)
+![image-20240112142741757](assets/image-20240112142741757.png)
 
 ```c++
 #include<iostream>
@@ -332,7 +350,7 @@ int main(){
 
 ### 4.3 高精度乘法
 
-![image-20240112142804068](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240112142804068.png)
+![image-20240112142804068](assets/image-20240112142804068.png)
 
 ```c++
 #include<iostream>
@@ -370,7 +388,7 @@ int main(){
 
 ### 4.4 高精度除法
 
-![image-20240112142832710](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240112142832710.png)
+![image-20240112142832710](assets/image-20240112142832710.png)
 
 ```c++
 #include<iostream>
@@ -414,7 +432,7 @@ int main(){
 
 ### 5.1 前缀和（一维）
 
-![image-20240112142944977](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240112142944977.png)
+![image-20240112142944977](assets/image-20240112142944977.png)
 
 ```c++
 //一维前缀和公式
@@ -449,7 +467,7 @@ int main(){
 
 ### 5.2 子矩阵的和（二维）
 
-![image-20240112150043615](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240112150043615.png)
+![image-20240112150043615](assets/image-20240112150043615.png)
 
 ```c++
 //二维前缀和公式
@@ -491,7 +509,7 @@ int main(){
 
 ### 5.3 差分（前缀和的逆运算）
 
-![image-20240114102844804](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240114102844804.png)
+![image-20240114102844804](assets/image-20240114102844804.png)
 
 ```c++
 //一维差分
@@ -534,7 +552,7 @@ int main(){
 
 ### 5.4 差分矩阵
 
-![image-20240114154838383](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240114154838383.png)
+![image-20240114154838383](assets/image-20240114154838383.png)
 
 ```c++
 //二维差分
@@ -593,7 +611,7 @@ int main(){
 
 ### 6.1 最长连续不重复子序列
 
-![image-20240115101055126](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240115101055126.png)
+![image-20240115101055126](assets/image-20240115101055126.png)
 
 ```c++
 //双指针算法模板
@@ -638,7 +656,7 @@ int main(){
 
 ### 6.2 数组元素的目标和
 
-![image-20240115103002597](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240115103002597.png)
+![image-20240115103002597](assets/image-20240115103002597.png)
 
 ```c++
 #include<iostream>
@@ -668,7 +686,7 @@ int main(){
 
 ### 6.3 判断子序列
 
-![image-20240115152103661](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240115152103661.png)
+![image-20240115152103661](assets/image-20240115152103661.png)
 
 ```c++
 #include<iostream>
@@ -699,7 +717,7 @@ int main(){
 
 ### 7.1 二进制中1的个数
 
-![image-20240115155536401](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240115155536401.png)
+![image-20240115155536401](assets/image-20240115155536401.png)
 
 ```c++
 //位运算模板
@@ -744,7 +762,7 @@ int main(){
 
 ### 8.1 区间和
 
-![image-20240116135755784](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240116135755784.png)
+![image-20240116135755784](assets/image-20240116135755784.png)
 
 ```c++
 //离散化模板
@@ -767,9 +785,9 @@ int find(int x)//找到第一个大于等于x的位置
 
 
 
-![区间和](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/%E5%8C%BA%E9%97%B4%E5%92%8C.png)
+![区间和](assets/离散化示意图1.png)
 
-![区间和2](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/%E5%8C%BA%E9%97%B4%E5%92%8C2.png)
+<img src="assets/离散化示意图2.png" alt="区间和2" />
 
 
 
@@ -847,7 +865,7 @@ int main(){
 
 ### 9.1 区间合并
 
-![image-20240117100135593](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240117100135593.png)
+![image-20240117100135593](assets/image-20240117100135593.png)
 
 ```c++
 //区间合并模板

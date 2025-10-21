@@ -7,7 +7,7 @@
 
 #### 1.试除法判定质数
 
-![image-20240208154627833](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240208154627833.png)
+![image-20240208154627833](assets/image-20240208154627833.png)
 
 ```c++
 bool is_prime(int x)
@@ -58,7 +58,7 @@ int main()
 
 #### 2.分解质因数
 
-![image-20240208162404221](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240208162404221.png)
+![image-20240208162404221](assets/image-20240208162404221.png)
 
 ```c++
 #include <iostream>
@@ -118,7 +118,7 @@ void divide(int x)
 
 #### 3.筛质数
 
-![image-20240208165154655](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240208165154655.png)
+![image-20240208165154655](assets/image-20240208165154655.png)
 
 ```c++
 
@@ -253,7 +253,7 @@ void get_primes(int n)
 
 #### 1.试除法求约数
 
-![image-20240217104638829](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240217104638829.png)
+![image-20240217104638829](assets/image-20240217104638829.png)
 
 ```c++
 #include <iostream>
@@ -313,7 +313,7 @@ vector<int> get_divisors(int x)
 
 #### 2.约数个数
 
-![image-20240217153842909](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240217153842909.png)
+![image-20240217153842909](assets/image-20240217153842909.png)
 
 ```c++
 
@@ -369,7 +369,7 @@ int main()
 
 #### 3.约数之和
 
-![image-20240217162152651](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240217162152651.png)
+![image-20240217162152651](assets/image-20240217162152651.png)
 
 ```c++
 
@@ -435,7 +435,7 @@ int main()
 
 #### 4.最大公约数
 
-![image-20240217165505252](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240217165505252.png)
+![image-20240217165505252](assets/image-20240217165505252.png)
 
 ```c++
 
@@ -469,7 +469,7 @@ int main()
 
 #### 1.欧拉函数
 
-![image-20240217171909347](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240217171909347.png)
+![image-20240217171909347](assets/image-20240217171909347.png)
 
 ```c++
 
@@ -529,7 +529,7 @@ int phi(int x)
 
 #### 2.筛法求欧拉函数
 
-![image-20240219110124715](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240219110124715.png)
+![image-20240219110124715](assets/image-20240219110124715.png)
 
 ```c++
 #include <iostream>
@@ -636,9 +636,9 @@ void get_eulers(int n)
 
 #### 1.快速幂
 
-![image-20240219171741661](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240219171741661.png)
+![image-20240219171741661](assets/image-20240219171741661.png)
 
-![image-20240219171755499](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240219171755499.png)
+![image-20240219171755499](assets/image-20240219171755499.png)
 
 ```c++
 #include <iostream>
@@ -696,7 +696,7 @@ LL qmi(int a, int b, int p)
 
 #### 2.快速幂求逆元
 
-![image-20240219174812186](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240219174812186.png)
+![image-20240219174812186](assets/image-20240219174812186.png)
 
 ```c++
 #include <iostream>
@@ -744,9 +744,9 @@ int main()
 
 #### 1.扩展欧几里得算法
 
-![image-20240220095303626](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240220095303626.png)
+![image-20240220095303626](assets/image-20240220095303626.png)
 
-![image-20240220100448292](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240220100448292.png)
+![image-20240220100448292](assets/image-20240220100448292.png)
 
 ```c++
 #include <iostream>
@@ -804,7 +804,7 @@ int exgcd(int a, int b, int &x, int &y)
 
 #### 2.线性同余方程
 
-![image-20240220162334884](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240220162334884.png)
+![image-20240220162334884](assets/image-20240220162334884.png)
 
 ```c++
 #include <iostream>
@@ -857,7 +857,7 @@ int main()
 
 #### 表达整数的奇怪方式
 
-![image-20240220165253585](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240220165253585.png)
+![image-20240220165253585](assets/image-20240220165253585.png)
 
 ```c++
 #include <iostream>
@@ -924,7 +924,7 @@ int main()
 
 #### 1.高斯消元解线性方程组
 
-![image-20240220165811740](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240220165811740.png)
+![image-20240220165811740](assets/image-20240220165811740.png)
 
 ```c++
 #include <iostream>
@@ -1001,7 +1001,7 @@ int main()
 
 #### 2.高斯消元解异或线性方程组
 
-![image-20240220170138830](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240220170138830.png)
+![image-20240220170138830](assets/image-20240220170138830.png)
 
 ```c++
 #include <iostream>
@@ -1079,9 +1079,9 @@ int main()
 
 #### 1.求组合数 I
 
-![image-20240221092834023](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240221092834023.png)
+![image-20240221092834023](assets/image-20240221092834023.png)
 
-![image-20240221093227486](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240221093227486.png)
+![image-20240221093227486](assets/image-20240221093227486.png)
 
 ```c++
 #include <iostream>
@@ -1127,9 +1127,9 @@ int main()
 
 #### 2.求组合数 II
 
-![image-20240221095734729](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240221095734729.png)
+![image-20240221095734729](assets/image-20240221095734729.png)
 
-![image-20240221100955744](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240221100955744.png)
+![image-20240221100955744](assets/image-20240221100955744.png)
 
 ```c++
 #include <iostream>
@@ -1213,9 +1213,9 @@ for (int i = 1; i < N; i ++ )
 
 #### 3.求组合数 III
 
-![image-20240221104052669](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240221104052669.png)
+![image-20240221104052669](assets/image-20240221104052669.png)
 
-![image-20240221161028800](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240221161028800.png)
+![image-20240221161028800](assets/image-20240221161028800.png)
 
 ```c++
 #include <iostream>
@@ -1323,9 +1323,9 @@ int lucas(LL a, LL b, int p)
 
 #### 4.求组合数 Ⅳ
 
-![image-20240221170231204](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240221170231204.png)
+![image-20240221170231204](assets/image-20240221170231204.png)
 
-![image-20240221195419952](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240221195419952.png)
+![image-20240221195419952](assets/image-20240221195419952.png)
 
 
 
@@ -1500,9 +1500,9 @@ for (int i = 0; i < cnt; i ++ )     // 用高精度乘法将所有质因子相�
 
 #### 5.满足条件的01序列
 
-![image-20240222100819729](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240222100819729.png)
+![image-20240222100819729](assets/image-20240222100819729.png)
 
-![image-20240222102207006](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240222102207006.png)
+![image-20240222102207006](assets/image-20240222102207006.png)
 
 ```c++
 
@@ -1559,9 +1559,9 @@ int main()
 
 #### 能被整除的数
 
-![image-20240222111632771](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240222111632771.png)
+![image-20240222111632771](assets/image-20240222111632771.png)
 
-![image-20240222171707026](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240222171707026.png)
+![image-20240222171707026](assets/image-20240222171707026.png)
 
 ```c++
 #include <iostream>
@@ -1652,7 +1652,7 @@ for (int i = 0; i < m; i ++ ) cin >> p[i];
 
 #### 1.Nim游戏
 
-![image-20240222175803606](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240222175803606.png)
+![image-20240222175803606](assets/image-20240222175803606.png)
 
 ```c++
 #include <iostream>
@@ -1683,7 +1683,7 @@ int main()
 
 #### 2.台阶-Nim游戏
 
-![image-20240222180647209](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240222180647209.png)
+![image-20240222180647209](assets/image-20240222180647209.png)
 
 ```c++
 
@@ -1720,7 +1720,7 @@ int main()
 
 #### 3.集合-Nim游戏
 
-![image-20240223094335090](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240223094335090.png)
+![image-20240223094335090](assets/image-20240223094335090.png)
 
 ```c++
 #include <cstring>
@@ -1782,9 +1782,9 @@ int main()
 
 #### 4.拆分-Nim游戏
 
-![image-20240223103605920](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240223103605920.png)
+![image-20240223103605920](assets/image-20240223103605920.png)
 
-![image-20240223103805594](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240223103805594.png)
+![image-20240223103805594](assets/image-20240223103805594.png)
 
 ```c++
 #include <cstring>
@@ -1879,43 +1879,3 @@ SG(G) = SG(G1) ^ SG(G2) ^ … ^ SG(Gm)
 **定理**
 有向图游戏的某个局面必胜，当且仅当该局面对应节点的SG函数值大于0。
 有向图游戏的某个局面必败，当且仅当该局面对应节点的SG函数值等于0。
-
-## 第五讲  动态规划
-
-### 背包问题
-
-![image-20240228115320696](https://ye-hai.oss-cn-shenzhen.aliyuncs.com/typora/image-20240228115320696.png)
-
-```c++
-#include <iostream>
-#include <algorithm>
-
-using namespace std;
-
-const int N = 1010;
-
-int n, m;
-int f[N];//f[j] 表示背包容量为 j 时能获得的最大价值。
-
-int main()
-{
-    cin >> n >> m;
-    
-    while(n--){
-    	int v, w;
-		cin >> v >> w; 
-		//逆序遍历（确保在更新 f[j] 的时候，使用的是上一轮迭代中的值 f[j - v[i]]） 
-        for (int j = m; j >= v; j -- ){
-        	//选择不放入当前物品和放入当前物品中的最大价值。
-            f[j] = max(f[j], f[j - v] + w);
-		}
-	}
-	
-
-    cout << f[m] << endl;
-
-    return 0;
-}
-
-```
-
