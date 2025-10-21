@@ -323,6 +323,20 @@ int main(){
 
 ### 4.1 高精度加法
 
+题目：
+
+牛客：
+
+https://www.nowcoder.com/practice/49e772ab08994a96980f9618892e55b6
+
+
+
+洛谷：
+
+https://www.luogu.com.cn/problem/P1601
+
+
+
 ![image-20240112142712055](assets/image-20240112142712055.png)
 
 ```c++
@@ -361,6 +375,12 @@ int main(){
 ```
 
 ### 4.2 高精度减法
+
+洛谷：
+
+https://www.luogu.com.cn/problem/P2142
+
+AcWing题目：
 
 ![image-20240112142741757](assets/image-20240112142741757.png)
 
@@ -415,6 +435,14 @@ int main(){
 
 ### 4.3 高精度乘法
 
+洛谷：
+
+https://www.luogu.com.cn/problem/U371642
+
+
+
+AcWing题目：
+
 ![image-20240112142804068](assets/image-20240112142804068.png)
 
 ```c++
@@ -452,6 +480,14 @@ int main(){
 ```
 
 ### 4.4 高精度除法
+
+洛谷：
+
+https://www.luogu.com.cn/problem/P1480
+
+
+
+AcWing题目：
 
 ![image-20240112142832710](assets/image-20240112142832710.png)
 
@@ -497,6 +533,18 @@ int main(){
 
 ### 5.1 前缀和（一维）
 
+洛谷：
+
+https://www.luogu.com.cn/problem/U410636
+
+https://www.luogu.com.cn/problem/P8218
+
+
+
+AcWing题目：
+
+
+
 ![image-20240112142944977](assets/image-20240112142944977.png)
 
 ```c++
@@ -531,6 +579,18 @@ int main(){
 ```
 
 ### 5.2 子矩阵的和（二维）
+
+洛谷：
+
+https://www.luogu.com.cn/problem/U388817
+
+ https://www.luogu.com.cn/problem/T271585
+
+https://www.luogu.com.cn/problem/U567555
+
+
+
+AcWing题目：
 
 ![image-20240112150043615](assets/image-20240112150043615.png)
 
@@ -574,6 +634,14 @@ int main(){
 
 ### 5.3 差分（前缀和的逆运算）
 
+洛谷：
+
+https://www.luogu.com.cn/problem/P2367
+
+
+
+AcWing题目：
+
 ![image-20240114102844804](assets/image-20240114102844804.png)
 
 ```c++
@@ -616,6 +684,14 @@ int main(){
 ```
 
 ### 5.4 差分矩阵
+
+洛谷：
+
+  https://www.luogu.com.cn/problem/U223961
+
+
+
+AcWing题目：
 
 ![image-20240114154838383](assets/image-20240114154838383.png)
 
@@ -676,6 +752,14 @@ int main(){
 
 ### 6.1 最长连续不重复子序列
 
+洛谷：
+
+https://www.luogu.com.cn/problem/U224090
+
+
+
+AcWing题目：
+
 ![image-20240115101055126](assets/image-20240115101055126.png)
 
 ```c++
@@ -721,6 +805,14 @@ int main(){
 
 ### 6.2 数组元素的目标和
 
+洛谷：
+
+  https://www.luogu.com.cn/problem/U268985
+
+
+
+AcWing题目：
+
 ![image-20240115103002597](assets/image-20240115103002597.png)
 
 ```c++
@@ -750,6 +842,14 @@ int main(){
 ```
 
 ### 6.3 判断子序列
+
+洛谷：
+
+https://www.luogu.com.cn/problem/U269021
+
+
+
+AcWing题目：
 
 ![image-20240115152103661](assets/image-20240115152103661.png)
 
@@ -781,6 +881,14 @@ int main(){
 ## 7 位运算
 
 ### 7.1 二进制中1的个数
+
+洛谷：
+
+https://www.luogu.com.cn/problem/U199197
+
+
+
+AcWing题目：
 
 ![image-20240115155536401](assets/image-20240115155536401.png)
 
@@ -826,6 +934,14 @@ int main(){
 ## 8 离散化
 
 ### 8.1 区间和
+
+洛谷：
+
+https://www.luogu.com.cn/problem/U415396
+
+
+
+AcWing题目：
 
 ![image-20240116135755784](assets/image-20240116135755784.png)
 
@@ -929,6 +1045,12 @@ int main(){
 ## 9 区间合并
 
 ### 9.1 区间合并
+
+洛谷：
+
+https://www.luogu.com.cn/problem/U282660
+
+AcWing题目：
 
 ![image-20240117100135593](assets/image-20240117100135593.png)
 
