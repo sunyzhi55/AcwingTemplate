@@ -6,8 +6,16 @@ tags:
 ---
 
 
+# 🎓 AcWing——算法基础课
 
-# AcWing——算法基础课
+![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B)
+![Topic](https://img.shields.io/badge/Topic-Algorithm-green?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2025--10--22-lightgrey?style=flat-square)
+
+> 第一讲 · 基础算法 · C++ 模板与题解
+
+---
 
 # 第一讲 基础算法
 

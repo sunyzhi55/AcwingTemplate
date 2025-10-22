@@ -1,5 +1,22 @@
-# AcWing——算法基础课
+---
+date: 2025-10-21T22:01:00
+tags:
+  - C++
+  - Algorithm
+---
 
+
+# 🎓 AcWing——算法基础课
+
+
+
+![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B)![Topic](https://img.shields.io/badge/Topic-Math%20%26%20Number%20Theory-purple?style=flat-square)![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)![Updated](https://img.shields.io/badge/Updated-2025--10--22-lightgrey?style=flat-square)
+
+
+
+> 第四讲 · 数学知识 · 质数 / 欧拉函数 / 快速幂 / 组合数
+
+---
 
 ## 第四讲  数学知识
 
