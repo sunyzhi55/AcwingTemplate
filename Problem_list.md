@@ -201,3 +201,183 @@ tags:
 | 洛谷 | https://www.luogu.com.cn/training/475184 | STL容器-练习（题单）    |
 
 </details>
+
+## 第三讲 搜索与图论
+
+### 3.1 深度优先搜索（回溯）算法（DFS）
+
+#### 组合问题
+
+| 来源     | 题目/题单                                                    | 说明                                                         |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| leetcode | https://leetcode.cn/problems/combinations/                   | [77. 组合](https://leetcode.cn/problems/combinations/)       |
+| 洛谷     | https://www.luogu.com.cn/problem/P1157                       | P1157 组合的输出                                             |
+| leetcode | https://leetcode.cn/problems/combination-sum-iii/            | [216. 组合总和 III](https://leetcode.cn/problems/combination-sum-iii/) |
+| leetcode | https://leetcode.cn/problems/letter-combinations-of-a-phone-number/ | [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) |
+| 牛客     | [电话号码_牛客题霸_牛客网](https://www.nowcoder.com/practice/2d3a1e71112546ac836700ccbd1f5936) |                                                              |
+| 洛谷     | https://www.luogu.com.cn/problem/U175564                     | U175564 电话号码的字母组合                                   |
+| leetcode | https://leetcode.cn/problems/combination-sum/                | [39. 组合总和](https://leetcode.cn/problems/combination-sum/) |
+| leetcode | https://leetcode.cn/problems/combination-sum-ii/             | [40. 组合总和 II](https://leetcode.cn/problems/combination-sum-ii/) |
+
+#### 字符串切割问题：
+
+| 来源     | 题目/题单                                             | 说明                                                         |
+| -------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+| leetcode | https://leetcode.cn/problems/palindrome-partitioning/ | [131. 分割回文串](https://leetcode.cn/problems/palindrome-partitioning/) |
+| leetcode | https://leetcode.cn/problems/restore-ip-addresses/    | [93. 复原 IP 地址 - 力扣（LeetCode）](https://leetcode.cn/problems/restore-ip-addresses/) |
+
+
+
+#### 子集问题：
+
+| 来源     | 题目/题单                                | 说明                                                    |
+| -------- | ---------------------------------------- | ------------------------------------------------------- |
+| leetcode | https://leetcode.cn/problems/subsets/    | [78. 子集](https://leetcode.cn/problems/subsets/)       |
+| leetcode | https://leetcode.cn/problems/subsets-ii  | [90. 子集 II](https://leetcode.cn/problems/subsets-ii/) |
+| 洛谷     | https://www.luogu.com.cn/problem/T235316 | T235316 子集和问题                                      |
+
+
+
+#### 排列问题：
+
+| 来源     | 题目/题单                                     | 说明                                                         |
+| -------- | --------------------------------------------- | ------------------------------------------------------------ |
+| leetcode | https://leetcode.cn/problems/permutations/    | [46. 全排列](https://leetcode.cn/problems/permutations/)     |
+| leetcode | https://leetcode.cn/problems/permutations-ii/ | [47. 全排列 II](https://leetcode.cn/problems/permutations-ii/) |
+| 洛谷     | https://www.luogu.com.cn/problem/P1706        | P1706 全排列问题                                             |
+
+
+
+#### 棋盘问题：
+
+
+
+| 来源     | 题目/题单                                                    | 说明                                                         |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| leetcode | https://leetcode.cn/problems/n-queens/description/           | [51. N 皇后](https://leetcode.cn/problems/n-queens/)         |
+| leetcode | https://leetcode.cn/problems/n-queens-ii/                    | [52. N 皇后 II](https://leetcode.cn/problems/n-queens-ii/)   |
+| 牛客     | https://www.nowcoder.com/practice/de1e1ff46cd641178a147166156c9d83 | [八皇后问题_牛客题霸_牛客网](https://www.nowcoder.com/practice/de1e1ff46cd641178a147166156c9d83) |
+| 洛谷     | https://www.luogu.com.cn/problem/P1562                       | P1562 还是 N 皇后                                            |
+| 洛谷     | https://www.luogu.com.cn/problem/T247305                     | T247305 n-皇后问题                                           |
+| 洛谷     | https://www.luogu.com.cn/problem/P1219                       | P1219 [USACO1.5] 八皇后 Checker Challenge                    |
+
+
+
+### 3.2 广度优先搜索（BFS）
+
+| 来源     | 题目/题单                                                    | 说明                                                         |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| leetcode | https://leetcode.cn/problems/minimum-moves-to-reach-target-with-rotations/ | [1210. 穿过迷宫的最少移动次数](https://leetcode.cn/problems/minimum-moves-to-reach-target-with-rotations/) |
+| 牛客     | [走迷宫_牛客题霸_牛客网](https://www.nowcoder.com/practice/e88b41dc6e764b2893bc4221777ffe64) | **走迷宫**                                                   |
+| 牛客     | [迷宫问题_牛客题霸_牛客网](https://www.nowcoder.com/practice/cf24906056f4488c9ddb132f317e03bc) | **迷宫问题**                                                 |
+| 洛谷     | https://www.luogu.com.cn/problem/P1002                       | P1002 [NOIP 2002 普及组] 过河卒（广搜 + dp）                 |
+| 洛谷     | https://www.luogu.com.cn/problem/P1238                       | P1238 走迷宫                                                 |
+| 洛谷     | https://www.luogu.com.cn/problem/T411205                     | T411205 迷宫的所有路径                                       |
+| 洛谷     | https://www.luogu.com.cn/problem/T567665                     | T567665 走迷宫                                               |
+| 牛客     | [八数码_牛客题霸_牛客网](https://www.nowcoder.com/practice/88ad36fde1e34af5a6582b690d3e0ba6) | **八数码**                                                   |
+| 洛谷     | https://www.luogu.com.cn/problem/P1379                       | P1379 八数码难题                                             |
+| 洛谷     | https://www.luogu.com.cn/problem/U536193                     | U536193 八数码                                               |
+
+
+
+### 3.3 树和图的遍历
+
+
+
+| 来源 | 题目/题单                                | 说明                     |
+| ---- | ---------------------------------------- | ------------------------ |
+| 洛谷 | https://www.luogu.com.cn/problem/U164672 | U164672 树的重心         |
+| 洛谷 | https://www.luogu.com.cn/training/459847 | 树的重心（题单）         |
+| 洛谷 | https://www.luogu.com.cn/problem/U104609 | U104609 【模板】树的重心 |
+| 洛谷 | https://www.luogu.com.cn/problem/T261805 | T261805 图中点的层次     |
+| 洛谷 | https://www.luogu.com.cn/problem/U322548 | U322548 图中点的层次     |
+
+
+
+### 3.4 拓扑排序
+
+拓扑排序是有向图广度优先搜索的应用
+
+
+
+| 来源   | 题目/题单                                                    | 说明                             |
+| ------ | ------------------------------------------------------------ | -------------------------------- |
+| 牛客   | [【模板】拓扑排序_牛客题霸_牛客网](https://www.nowcoder.com/practice/88f7e156ca7d43a1a535f619cd3f495c) | **【模板】拓扑排序**             |
+| 卡码网 | [117. 软件构建](https://kamacoder.com/problempage.php?pid=1191) | 软件构建                         |
+| 洛谷   | https://www.luogu.com.cn/problem/U153876                     | U153876 拓扑排序                 |
+| 洛谷   | https://www.luogu.com.cn/problem/U107394                     | U107394 拓扑排序模板             |
+| 洛谷   | https://www.luogu.com.cn/problem/B3644                       | B3644 【模板】拓扑排序 / 家谱树  |
+| 洛谷   | https://www.luogu.com.cn/training/479262                     | 拓扑排序（题单）                 |
+| 洛谷   | https://www.luogu.com.cn/training/42933                      | 【图论】拓扑排序专题训练（题单） |
+
+
+
+### 3.5 Dijkstra 算法
+
+| 来源 | 题目/题单                                                    | 说明                                      |
+| ---- | ------------------------------------------------------------ | ----------------------------------------- |
+| 牛客 | [单源最短路_牛客题霸_牛客网](https://www.nowcoder.com/practice/9f15b34a2a944a7798a5340ff0dba8b7) | 核心代码模式                              |
+| 牛客 | https://www.nowcoder.com/practice/d7fafd4f3340439e90597532850257b5 | **【模板】单源最短路Ⅲ ‖ 非负权图**ACM模式 |
+| 洛谷 | https://www.luogu.com.cn/problem/P3371                       | P3371 【模板】单源最短路径（弱化版）      |
+| 洛谷 | https://www.luogu.com.cn/problem/P4779                       | P4779 【模板】单源最短路径（标准版）      |
+| 洛谷 | https://www.nowcoder.com/practice/7c1740c3d4ba4b3486df4847ee6e8fc7 | **【模板】单源最短路2**                   |
+| 洛谷 | https://www.luogu.com.cn/problem/U237532                     | U237532 Dijkstra求最短路 I                |
+| 洛谷 | https://www.luogu.com.cn/problem/P3371                       | P3371 【模板】单源最短路径（弱化版）      |
+| 洛谷 | https://www.luogu.com.cn/problem/P4779                       | P4779 【模板】单源最短路径（标准版）      |
+| 洛谷 | https://www.luogu.com.cn/training/1368                       | **【图论】最短路练习（题单）**            |
+| 洛谷 | https://www.luogu.com.cn/training/5312                       | **【普及】最短路专项训练（题单）**        |
+| 洛谷 | https://www.luogu.com.cn/training/6456                       | **最短路问题精选（题单）**                |
+
+
+
+### 3.6 bellman-ford算法和SPFA算法
+
+| 来源 | 题目/题单                                | 说明                       |
+| ---- | ---------------------------------------- | -------------------------- |
+| 洛谷 | https://www.luogu.com.cn/problem/U193695 | U193695 有边数限制的最短路 |
+| 洛谷 | https://www.luogu.com.cn/problem/T437638 | T437638 有边数限制的最短路 |
+| 洛谷 | https://www.luogu.com.cn/problem/U520024 | U520024 SPFA算法求解最短路 |
+| 洛谷 | https://www.luogu.com.cn/problem/U327377 | U327377 Spfa判断负环       |
+| 洛谷 | https://www.luogu.com.cn/problem/T541584 | T541584 SPFA判负环         |
+| 洛谷 | https://www.luogu.com.cn/problem/P3385   | P3385 【模板】负环         |
+| 洛谷 | https://www.luogu.com.cn/training/3803   | 关于SPFA的经典好题（题单） |
+
+
+
+### 3.7 Floyd算法
+
+| 来源 | 题目/题单                                | 说明                      |
+| ---- | ---------------------------------------- | ------------------------- |
+| 洛谷 | https://www.luogu.com.cn/problem/B3647   | B3647 【模板】Floyd       |
+| 洛谷 | https://www.luogu.com.cn/training/462790 | 图论-最短路-Floyd（题单） |
+
+
+
+### 3.8 Prim算法和Kruskal算法
+
+
+
+| 来源 | 题目/题单                                | 说明                         |
+| ---- | ---------------------------------------- | ---------------------------- |
+| 洛谷 | https://www.luogu.com.cn/problem/U562562 | U562562 Prim算法求最小生成树 |
+| 洛谷 | https://www.luogu.com.cn/problem/P3366   | P3366 【模板】最小生成树     |
+| 洛谷 | https://www.luogu.com.cn/training/678885 | 最小生成树                   |
+| 洛谷 | https://www.luogu.com.cn/training/209    | 【图论2-3】最小生成树        |
+| 洛谷 | https://www.luogu.com.cn/training/332649 | Kruskal 入门                 |
+
+
+
+### 3.9 二分图的判定和匹配
+
+
+
+| 来源 | 题目/题单                                                    | 说明                                        |
+| ---- | ------------------------------------------------------------ | ------------------------------------------- |
+| 牛客 | [二分图判定_牛客题霸_牛客网](https://www.nowcoder.com/practice/f4b8d0481c7b4278b9b406b636e3c7db) | **二分图判定**                              |
+| 洛谷 | https://www.luogu.com.cn/problem/U248878                     | U248878 染色法判定二分图                    |
+| 洛谷 | https://www.luogu.com.cn/problem/U169194                     | U169194 【模板】二分图判定                  |
+| 洛谷 | https://www.luogu.com.cn/problem/P3386                       | P3386 【模板】二分图最大匹配                |
+| 洛谷 | https://www.luogu.com.cn/training/446145                     | 二分图（题单）                              |
+| 洛谷 | https://www.luogu.com.cn/training/82628                      | 「练习题单」二分图（题单）                  |
+| 洛谷 | https://www.luogu.com.cn/training/79728                      | （提高&省选）『二分图』从入门到入土（题单） |
+| 洛谷 | https://www.luogu.com.cn/training/18938                      | 二分图匹配（题单）                          |
