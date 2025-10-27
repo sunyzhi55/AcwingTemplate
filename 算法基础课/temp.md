@@ -1267,11 +1267,17 @@ int main() {
     else cout << res << endl;
 
     return 0;
-}```
+}
+```
 
 </details>
 
 ---
+
+
+</details>
+
+
 
 ### 🎨 7. 二分图
 
@@ -1342,8 +1348,6 @@ int main() {
     return 0;
 }
 ```
-
-</details>
 
 #### 7.2 匈牙利算法 (最大匹配)
 
