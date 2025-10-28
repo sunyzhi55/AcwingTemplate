@@ -39,6 +39,7 @@ tags:
 | ---- | ------------------------------------------------------------ | -------------------------- |
 | 洛谷 | [快速排序和归并排序 - 题单 - 洛谷](https://www.luogu.com.cn/training/784214) | 快速排序和归并排序（题单） |
 | 洛谷 | [归并排序 - 题单 - 洛谷](https://www.luogu.com.cn/training/13545) | 归并排序（题单）           |
+| 洛谷 | https://www.luogu.com.cn/training/107                        | 【算法1-2】排序（题单）    |
 | 洛谷 | https://www.luogu.com.cn/problem/U232725                     | U232725 【模板】归并排序   |
 | 洛谷 | [P1908 逆序对 - 洛谷](https://www.luogu.com.cn/problem/P1908) | P1908 逆序对               |
 
