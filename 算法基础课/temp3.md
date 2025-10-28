@@ -267,10 +267,6 @@ int main() {
 
 
 
-
-
-
-
 </details>
 
 ---
@@ -305,7 +301,10 @@ int main() {
 
 <details>
 <summary><strong>🎯 AcWing 题目与题解</strong></summary>
+
+
 ![image-20240131143848023](assets/image-20240131143848023.png)
+
 
 
 
@@ -587,7 +586,10 @@ int main() {
 
 <details>
 <summary><strong>🎯 AcWing 题目与题解</strong></summary>
+​    
+
 ![image-20240202144411302](assets/image-20240202144411302.png)
+
 
 ![image-20240202171248800](assets/image-20240202171248800.png)
 
@@ -662,7 +664,12 @@ int main() {
 - **洛谷**:
     - [T261805 图中点的层次](https://www.luogu.com.cn/problem/T261805)
     - [U322548 图中点的层次](https://www.luogu.com.cn/problem/U322548)
-    </details>
+
+
+
+</details>
+
+
 
 <details>
 <summary><strong>🎯 AcWing 题目与题解</strong></summary>
@@ -2176,6 +2183,8 @@ int main() {
 </details>
 
 
+
+### 6.3 算法对比
 
 
 
