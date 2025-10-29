@@ -13,7 +13,7 @@
 ![Topic](https://img.shields.io/badge/Topic-Algorithm-green?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 ![Progress](https://img.shields.io/badge/Progress-持续更新-blueviolet?style=flat-square&logo=progress)
-![Stars](https://img.shields.io/badge/Stars-⭐-yellow?style=flat-square&logo=github)
+![Created](https://img.shields.io/badge/Created-2025--10--21-lightgrey?style=flat-square)
 ![Difficulty](https://img.shields.io/badge/Difficulty-算法之路-orange?style=flat-square&logo=leetcode)
 ![Community](https://img.shields.io/badge/Community-AcWing-ff69b4?style=flat-square&logo=wechat)
 
