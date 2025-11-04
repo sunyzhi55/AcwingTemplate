@@ -9,7 +9,7 @@
 </p>
 
 
-<p align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c1,100:1900ff&height=220&text=🚀%20AcWing%20算法模板库&desc=Keep%20AC-ing!&descAlign=50&descAlignY=75&fontSize=56&fontColor=E1B8FF&fontAlignY=42&animation=twinkling" alt="AcWing 算法模板库 Banner"> </p>
+<p align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c1,100:1900ff&height=220&text=🚀%20AcWing%20算法模板库&desc=Keep%20AC-ing!&descAlign=50&descAlignY=75&fontSize=56&fontColor=80FFDB&fontAlignY=42&animation=twinkling" alt="AcWing 算法模板库 Banner"> </p>
 
 
 
