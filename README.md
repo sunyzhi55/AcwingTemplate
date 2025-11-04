@@ -9,6 +9,13 @@
 </p>
 
 
+<p align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c1,100:1900ff&height=220&text=🚀%20AcWing%20算法模板库&desc=Keep%20AC-ing!&descAlign=50&descAlignY=75&fontSize=56&fontColor=E1B8FF&fontAlignY=42&animation=twinkling" alt="AcWing 算法模板库 Banner"> </p>
+
+
+
+
+
+
 
 
 <p align="center">
@@ -32,9 +39,9 @@
 
 
 
-<h1 align="center">
+ <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&weight=600&duration=3500&pause=500&color=9D7AFF&center=true&vCenter=true&width=500&lines=💡+Talk+is+cheap;+🚀Show+me+the+code!;+👾+From+Algorithm+to+Infinity.">
-</h1>
+</h1> 
 
 
 
