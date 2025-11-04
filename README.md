@@ -5,7 +5,20 @@
 # 🚀 AcWing 算法模板库
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AcWing_Algorithm_Templates-Keep%20AC--ing-%231188FF?style=for-the-badge&logo=rocket&colorA=222&colorB=1188FF" alt="AcWing Algorithm Templates">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:23255B,35:7A00B7,100:00D4FF&height=230&text=🚀%20AcWing%20算法模板库&desc=Keep%20AC-ing!&descAlign=50&descAlignY=75&fontSize=56&fontColor=E1B8FF&fontAlignY=42&animation=twinkling" alt="AcWing 算法模板库 Banner"/>
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B?style=for-the-badge&logo=c%2B%2B&logoColor=EDE7F6&colorA=6F2DBD&colorB=9D7AFF">
+  <img src="https://img.shields.io/badge/Topic-Algorithm?style=for-the-badge&colorA=7B2CBF&colorB=A663CC&logoColor=E6CCFF&">
+  <img src="https://img.shields.io/badge/License-MIT?style=for-the-badge&colorA=9D4EDD&colorB=C77DFF&logo=github&logoColor=F8E1FF">
+  <img src="https://img.shields.io/badge/Progress-持续更新?style=for-the-badge&colorA=6930C3&colorB=80FFDB&logo=progress&logoColor=E6E6FA">
+  <img src="https://img.shields.io/badge/Created-2025--10--21?style=for-the-badge&colorA=5E60CE&colorB=64DFDF&logo=clockify&logoColor=E1B8FF">
+  <img src="https://img.shields.io/badge/Difficulty-算法之路?style=for-the-badge&colorA=7400B8&colorB=80FFEA&logo=leetcode&logoColor=EEDCFF">
+  <img src="https://img.shields.io/badge/Community-AcWing?style=for-the-badge&colorA=7B68EE&colorB=80FFEA&logo=wechat&logoColor=F3E5F5">
 </p>
 
 
@@ -16,6 +29,18 @@
 ![Created](https://img.shields.io/badge/Created-2025--10--21-lightgrey?style=flat-square)
 ![Difficulty](https://img.shields.io/badge/Difficulty-算法之路-orange?style=flat-square&logo=leetcode)
 ![Community](https://img.shields.io/badge/Community-AcWing-ff69b4?style=flat-square&logo=wechat)
+
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&weight=600&duration=3500&pause=500&color=9D7AFF&center=true&vCenter=true&width=500&lines=💡+Talk+is+cheap;+🚀Show+me+the+code!;+👾+From+Algorithm+to+Infinity.">
+</h1>
+
+
+
+---
+
+
 
 > “Talk is cheap. Show me the code.” —— Linus Torvalds  
 >
