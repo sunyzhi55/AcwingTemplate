@@ -39,9 +39,9 @@
 
 
 
- <h1 align="center">
+ <!-- <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&weight=600&duration=3500&pause=500&color=9D7AFF&center=true&vCenter=true&width=500&lines=💡+Talk+is+cheap;+🚀Show+me+the+code!;+👾+From+Algorithm+to+Infinity.">
-</h1> 
+</h1>  -->
 
 
 
@@ -78,6 +78,22 @@
 - 精选的 **练习题目清单**
 
 无论你是刚踏入算法世界的新手，还是想系统巩固知识的进阶者，这个仓库都将是你攀登算法之巅的坚实阶梯。
+
+---
+
+
+## 🧩 主要内容
+
+| 模块 | 内容 | 进度 |
+|------|------|------|
+| 基础算法 | 快排、归并、二分、前缀和等 | ✅ 已完成 |
+| 数据结构 | 单调栈、并查集、堆、Trie 树 | ✅ 已完成 |
+| 图论算法 | 最短路、最小生成树、拓扑排序 | ✅ 已完成 |
+| 基础数学 | 质数约数问题、欧拉函数、高斯消元、组合数等 | ✅ 已完成 |
+| 动态规划 | 背包、区间、状态压缩 | 🚀 进行中 |
+| 贪心问题 | 🚧 更新中                                   | 🧠 规划中 |
+
+
 
 ---
 
