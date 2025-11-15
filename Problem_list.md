@@ -782,7 +782,7 @@ tags:
 | 来源                           | 题目/题单                                                    | 说明                                                   |
 | :----------------------------- | :----------------------------------------------------------- | :----------------------------------------------------- |
 | 牛客                           | [【模板】多重背包_牛客题霸_牛客网](https://www.nowcoder.com/practice/8fa10063d33a43dd9652c1511a34d461) | **【模板】多重背包**                                   |
-| 朴素写法:arrow_down_small:     | 朴素写法:arrow_down_small:                                   | 朴素写法:arrow_down_small:                             |
+| 朴素写法⬇️     | 朴素写法⬇️                                   | 朴素写法⬇️                             |
 | 洛谷                           | https://www.luogu.com.cn/problem/U296062                     | U296062 多重背包板子                                   |
 | 洛谷                           | https://www.luogu.com.cn/problem/T634681                     | T634681 [C动态规划]多重背包                            |
 | 洛谷                           | https://www.luogu.com.cn/problem/U280382                     | U280382 多重背包问题                                   |
@@ -795,7 +795,7 @@ tags:
 | 洛谷                           | https://www.luogu.com.cn/problem/T170583                     | T170583 【背包】【模板】多重背包-1                     |
 | 洛谷                           | https://www.luogu.com.cn/problem/T627121                     | T627121 少量多重背包                                   |
 |                                |                                                              |                                                        |
-| 二进制优化:arrow_down_small:   | 二进制优化:arrow_down_small:                                 | 二进制优化:arrow_down_small:                           |
+| 二进制优化⬇️   | 二进制优化⬇️                                 | 二进制优化⬇️                           |
 | 洛谷                           | https://www.luogu.com.cn/problem/T627123                     | T627123 多重背包                                       |
 | 洛谷                           | https://www.luogu.com.cn/problem/T473627                     | T473627 多重背包（2）                                  |
 | 洛谷                           | https://www.luogu.com.cn/problem/U536214                     | U536214 多重背包问题Ⅱ                                  |
@@ -803,7 +803,7 @@ tags:
 | 洛谷                           | https://www.luogu.com.cn/problem/U410562                     | U410562 多重背包                                       |
 | 洛谷                           | https://www.luogu.com.cn/problem/U421513                     | U421513 【模板】多重背包问题（强化版）                 |
 |                                |                                                              |                                                        |
-| 单调队列优化:arrow_down_small: | 单调队列优化:arrow_down_small:                               | 单调队列优化:arrow_down_small:                         |
+| 单调队列优化⬇️ | 单调队列优化⬇️                               | 单调队列优化⬇️                         |
 | 洛谷                           | https://www.luogu.com.cn/problem/U421515                     | U421515 【模板】多重背包问题（终极版）                 |
 | 洛谷                           | https://www.luogu.com.cn/problem/U312099                     | U312099 多重背包单调队列优化                           |
 | 洛谷                           | https://www.luogu.com.cn/problem/U296086                     | U296086 多重背包单调队列优化                           |
@@ -987,7 +987,7 @@ tags:
 | 洛谷                   | https://www.luogu.com.cn/problem/T571370                     | T571370 石子合并（弱化版）                 |
 | 洛谷                   | https://www.luogu.com.cn/problem/U461930                     | U461930 石子合并                           |
 | 洛谷                   | https://www.luogu.com.cn/problem/U97736                      | U97736 石子合并（线性）                    |
-| 进阶:arrow_down_small: | 进阶:arrow_down_small:                                       | 进阶:arrow_down_small:                     |
+| 进阶⬇️ | 进阶⬇️                                       | 进阶⬇️                     |
 | 洛谷                   | https://www.luogu.com.cn/problem/P1880                       | P1880 [NOI1995] 石子合并（环形DP问题）     |
 | 洛谷                   | https://www.luogu.com.cn/problem/U322569                     | U322569 大石子合并（环形DP问题）           |
 | 洛谷                   | https://www.luogu.com.cn/problem/T376874                     | T376874 石子合并（环形DP问题）             |
@@ -1009,19 +1009,19 @@ tags:
 
 | 来源                       | 题目/题单                                | 说明                                     |
 | :------------------------- | :--------------------------------------- | :--------------------------------------- |
-| 背包思想:arrow_down_small: | 背包思想:arrow_down_small:               | 背包思想:arrow_down_small:               |
+| 背包思想⬇️ | 背包思想⬇️               | 背包思想⬇️               |
 | 洛谷                       | https://www.luogu.com.cn/problem/U490083 | U490083 整数划分问题                     |
 | 洛谷                       | https://www.luogu.com.cn/problem/T626668 | T626668 整数划分                         |
 | 洛谷                       | https://www.luogu.com.cn/problem/T557819 | T557819 06-02-C10-整数划分问题(递归求解) |
 | 洛谷                       | https://www.luogu.com.cn/problem/T170019 | T170019 整数划分                         |
 | 洛谷                       | https://www.luogu.com.cn/problem/U490083 | U490083 整数划分问题                     |
-| 计数dp:arrow_down_small:   | 计数dp:arrow_down_small:                 | 计数dp:arrow_down_small:                 |
+| 计数dp⬇️   | 计数dp⬇️                 | 计数dp⬇️                 |
 | 洛谷                       | https://www.luogu.com.cn/problem/U505981 | U505981 整数划分                         |
 | 洛谷                       | https://www.luogu.com.cn/problem/U426896 | U426896 整数划分                         |
-| 拓展:arrow_down_small:     | 拓展:arrow_down_small:                   | 拓展:arrow_down_small:                   |
+| 拓展⬇️     | 拓展⬇️                   | 拓展⬇️                   |
 | 洛谷                       | https://www.luogu.com.cn/problem/P1025   | P1025 [NOIP 2001 提高组] 数的划分        |
 | 洛谷                       | https://www.luogu.com.cn/problem/U296470 | U296470 420.整数划分                     |
-| 题单:arrow_down_small:     | 题单:arrow_down_small:                   | 题单:arrow_down_small:                   |
+| 题单⬇️     | 题单⬇️                   | 题单⬇️                   |
 | 洛谷                       | https://www.luogu.com.cn/training/188779 | **DP & 计数（题单）**                    |
 | 洛谷                       | https://www.luogu.com.cn/training/321034 | **计数类DP（题单）**                     |
 
@@ -1114,7 +1114,7 @@ tags:
 | 洛谷                   | https://www.luogu.com.cn/problem/T160910                     | T160910 没有上司的舞会             |
 | 洛谷                   | https://www.luogu.com.cn/problem/T570771                     | T570771 没有上司的舞会             |
 | 洛谷                   | https://www.luogu.com.cn/problem/T413403                     | T413403 没有上司的舞会             |
-| 题单:arrow_down_small: | 题单:arrow_down_small:                                       | 题单:arrow_down_small:             |
+| 题单⬇️ | 题单⬇️                                       | 题单⬇️             |
 | 洛谷                   | https://www.luogu.com.cn/training/18506                      | **树形DP模板题（题单）**           |
 | 洛谷                   | https://www.luogu.com.cn/training/196902                     | **树形DP（题单）**                 |
 | 洛谷                   | https://www.luogu.com.cn/training/11363                      | **xzy的树形dp题单（题单）**        |
