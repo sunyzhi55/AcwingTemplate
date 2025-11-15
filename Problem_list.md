@@ -1014,7 +1014,6 @@ tags:
 | 洛谷                       | https://www.luogu.com.cn/problem/T626668 | T626668 整数划分                         |
 | 洛谷                       | https://www.luogu.com.cn/problem/T557819 | T557819 06-02-C10-整数划分问题(递归求解) |
 | 洛谷                       | https://www.luogu.com.cn/problem/T170019 | T170019 整数划分                         |
-| 洛谷                       | https://www.luogu.com.cn/problem/U490083 | U490083 整数划分问题                     |
 | 计数dp⬇️   | 计数dp⬇️                 | 计数dp⬇️                 |
 | 洛谷                       | https://www.luogu.com.cn/problem/U505981 | U505981 整数划分                         |
 | 洛谷                       | https://www.luogu.com.cn/problem/U426896 | U426896 整数划分                         |
@@ -1089,14 +1088,14 @@ tags:
 
 
 
-| 来源 | 题目/题单                                | 说明                    |
-| :--- | :--------------------------------------- | :---------------------- |
-| 洛谷 | https://www.luogu.com.cn/training/75844  | 状压DP                  |
-| 洛谷 | https://www.luogu.com.cn/training/213596 | 状压 dp 练习题          |
-| 洛谷 | https://www.luogu.com.cn/training/189397 | 状压dp                  |
-| 洛谷 | https://www.luogu.com.cn/training/3121   | 状态压缩 dp             |
-| 洛谷 | https://www.luogu.com.cn/training/497743 | Flaw_Owl 的状压 DP 题单 |
-| 洛谷 | https://www.luogu.com.cn/training/43996  | 状压DP，数位DP          |
+| 来源 | 题目/题单                                | 说明               |
+| :--- | :--------------------------------------- | :----------------- |
+| 洛谷 | https://www.luogu.com.cn/training/75844  | 状压DP             |
+| 洛谷 | https://www.luogu.com.cn/training/213596 | 状压 dp 练习题     |
+| 洛谷 | https://www.luogu.com.cn/training/189397 | 状压dp             |
+| 洛谷 | https://www.luogu.com.cn/training/3121   | 状态压缩 dp        |
+| 洛谷 | https://www.luogu.com.cn/training/497743 | Flaw_Owl 的状压 DP |
+| 洛谷 | https://www.luogu.com.cn/training/43996  | 状压DP，数位DP     |
 
 
 
