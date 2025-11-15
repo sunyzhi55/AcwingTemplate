@@ -693,3 +693,480 @@ tags:
 
 
 
+---
+
+
+<details>
+<summary><h1>🎒 第五讲 动态规划</h1></summary>
+
+
+## 📚 5.0 总、杂
+
+
+
+| 来源 | 题目/题单                                | 说明                                    |
+| :--- | :--------------------------------------- | :-------------------------------------- |
+| 洛谷 | https://www.luogu.com.cn/training/548547 | **DP 算法经典题目（题单）**             |
+| 洛谷 | https://www.luogu.com.cn/training/1435   | **【动态规划】普及~省选的dp题（题单）** |
+| 洛谷 | https://www.luogu.com.cn/training/334124 | **DP（题单）**                          |
+| 洛谷 | https://www.luogu.com.cn/training/204315 | **动态规划专项1（题单）**               |
+| 洛谷 | https://www.luogu.com.cn/training/581121 | **动态规划（题单）**                    |
+| 洛谷 | https://www.luogu.com.cn/training/45441  | **普及组dp合集（题单）**                |
+| 洛谷 | https://www.luogu.com.cn/training/199258 | **普及+基础算法综合练习（题单）**       |
+
+## 💰 5.1 背包问题
+
+### 📦5.1.0 总、杂
+
+
+
+| 来源 | 题目/题单                                | 说明                                  |
+| :--- | :--------------------------------------- | :------------------------------------ |
+| 洛谷 | https://www.luogu.com.cn/training/5197   | 背包问题（题单）                      |
+| 洛谷 | https://www.luogu.com.cn/training/8917   | 背包问题（简单）（题单）              |
+| 洛谷 | https://www.luogu.com.cn/training/434018 | 动态规划-进阶-背包问题（题单）        |
+| 洛谷 | https://www.luogu.com.cn/training/361472 | 动态规划之背包问题（题单）            |
+| 洛谷 | https://www.luogu.com.cn/training/548575 | DP 算法经典题目：背包动态规划（题单） |
+| 洛谷 | https://www.luogu.com.cn/training/201862 | 中等水平各类dp                        |
+
+### 🎒 5.1.1 01背包
+
+| 来源     | 题目/题单                                                    | 说明                           |
+| :------- | :----------------------------------------------------------- | :----------------------------- |
+| 卡码网   | [46. 携带研究材料（第六期模拟笔试）](https://kamacoder.com/problempage.php?pid=1046) | 携带研究材料（第六期模拟笔试） |
+| 牛客     | [01背包_牛客题霸_牛客网](https://www.nowcoder.com/practice/2820ea076d144b30806e72de5e5d4bbf) | **01背包**                     |
+| 牛客     | [【模板】01背包_牛客题霸_牛客网](https://www.nowcoder.com/practice/fd55637d3f24484e96dad9e992d3f62e) | **【模板】01背包**             |
+| 牛客竞赛 | [【模板】01背包](https://ac.nowcoder.com/acm/problem/226514) | 【模板】01背包                 |
+| 洛谷     | https://www.luogu.com.cn/problem/U225269                     | U225269 01背包问题             |
+| 洛谷     | https://www.luogu.com.cn/training/680099                     | **背包-01背包（题单）**        |
+| 洛谷     | https://www.luogu.com.cn/training/28588                      | **01背包（题单）**             |
+| 洛谷     | https://www.luogu.com.cn/training/471524                     | **01背包（题单）**             |
+| 洛谷     | https://www.luogu.com.cn/training/764085                     | **01背包问题（题单）**         |
+
+
+
+### 🛍️ 5.1.2 完全背包
+
+
+
+| 来源     | 题目/题单                                                    | 说明                            |
+| :------- | :----------------------------------------------------------- | :------------------------------ |
+| 牛客     | [完全背包_牛客题霸_牛客网](https://www.nowcoder.com/practice/3ed13831e2cc4613866edee237d5a804) | **完全背包**（核心代码模式）    |
+| 牛客     | [【模板】完全背包_牛客题霸_牛客网](https://www.nowcoder.com/practice/237ae40ea1e84d8980c1d5666d1c53bc) | **【模板】完全背包**（ACM模式） |
+| 牛客     | [【模板】完全背包_牛客题霸_牛客网](https://www.nowcoder.com/practice/deda4293d9b24ce1aeaf1813c88b8c25) | **【模板】完全背包**（ACM模式） |
+| 牛客竞赛 | [【模板】完全背包](https://ac.nowcoder.com/acm/problem/226516) | 【模板】完全背包                |
+| 洛谷     | https://www.luogu.com.cn/problem/U200606                     | U200606 完全背包问题            |
+| 洛谷     | https://www.luogu.com.cn/problem/T164644                     | T164644 完全背包                |
+| 洛谷     | https://www.luogu.com.cn/problem/U401025                     | U401025 完全背包问题            |
+| 洛谷     | https://www.luogu.com.cn/problem/T181922                     | T181922 【例题】完全背包问题    |
+| 洛谷     | https://www.luogu.com.cn/problem/T633938                     | T633938 [C动态规划]完全背包问题 |
+| 洛谷     | https://www.luogu.com.cn/problem/T644462                     | T644462 【模板】完全背包问题    |
+| 洛谷     | https://www.luogu.com.cn/problem/T626650                     | T626650 完全背包问题            |
+| 洛谷     | https://www.luogu.com.cn/problem/U287919                     | U287919 完全背包问题            |
+| 洛谷     | https://www.luogu.com.cn/problem/U227266                     | U227266 完全背包问题            |
+| 洛谷     | https://www.luogu.com.cn/problem/T626648                     | T626648 完全背包问题            |
+| 洛谷     | https://www.luogu.com.cn/problem/U225366                     | U225366 完全背包问题            |
+| 洛谷     | https://www.luogu.com.cn/problem/U444165                     | U444165 完全背包问题            |
+| 洛谷     | https://www.luogu.com.cn/problem/T363712                     | T363712 完全背包问题            |
+| 洛谷     | https://www.luogu.com.cn/problem/T420343                     | T420343 【例题】完全背包问题    |
+| 洛谷     | https://www.luogu.com.cn/problem/T157476                     | T157476 完全背包问题            |
+| 洛谷     | https://www.luogu.com.cn/problem/U264941                     | U264941 完全背包问题            |
+| 洛谷     | https://www.luogu.com.cn/problem/U582594                     | U582594 完全背包问题            |
+| 洛谷     | https://www.luogu.com.cn/training/680112                     | **背包-完全背包（题单）**       |
+| 洛谷     | https://www.luogu.com.cn/training/453079                     | **完全背包（题单）**            |
+
+### 📦 5.1.3 多重背包
+
+
+
+| 来源                           | 题目/题单                                                    | 说明                                                   |
+| :----------------------------- | :----------------------------------------------------------- | :----------------------------------------------------- |
+| 牛客                           | [【模板】多重背包_牛客题霸_牛客网](https://www.nowcoder.com/practice/8fa10063d33a43dd9652c1511a34d461) | **【模板】多重背包**                                   |
+| 朴素写法:arrow_down_small:     | 朴素写法:arrow_down_small:                                   | 朴素写法:arrow_down_small:                             |
+| 洛谷                           | https://www.luogu.com.cn/problem/U296062                     | U296062 多重背包板子                                   |
+| 洛谷                           | https://www.luogu.com.cn/problem/T634681                     | T634681 [C动态规划]多重背包                            |
+| 洛谷                           | https://www.luogu.com.cn/problem/U280382                     | U280382 多重背包问题                                   |
+| 洛谷                           | https://www.luogu.com.cn/problem/T506338                     | T506338 多重背包【背包】                               |
+| 洛谷                           | https://www.luogu.com.cn/problem/T546409                     | T546409 【模板】多重背包问题（弱化版）                 |
+| 洛谷                           | https://www.luogu.com.cn/problem/U421512                     | U421512 【模板】多重背包问题（弱化版）                 |
+| 洛谷                           | https://www.luogu.com.cn/problem/T182351                     | T182351 【例题】多重背包问题                           |
+| 洛谷                           | https://www.luogu.com.cn/problem/U120987                     | U120987 偷东西(多重背包)                               |
+| 洛谷                           | https://www.luogu.com.cn/problem/T127078                     | T127078 庆功会(多重背包)                               |
+| 洛谷                           | https://www.luogu.com.cn/problem/T170583                     | T170583 【背包】【模板】多重背包-1                     |
+| 洛谷                           | https://www.luogu.com.cn/problem/T627121                     | T627121 少量多重背包                                   |
+|                                |                                                              |                                                        |
+| 二进制优化:arrow_down_small:   | 二进制优化:arrow_down_small:                                 | 二进制优化:arrow_down_small:                           |
+| 洛谷                           | https://www.luogu.com.cn/problem/T627123                     | T627123 多重背包                                       |
+| 洛谷                           | https://www.luogu.com.cn/problem/T473627                     | T473627 多重背包（2）                                  |
+| 洛谷                           | https://www.luogu.com.cn/problem/U536214                     | U536214 多重背包问题Ⅱ                                  |
+| 洛谷                           | https://www.luogu.com.cn/problem/U296083                     | U296083 多重背包二进制优化                             |
+| 洛谷                           | https://www.luogu.com.cn/problem/U410562                     | U410562 多重背包                                       |
+| 洛谷                           | https://www.luogu.com.cn/problem/U421513                     | U421513 【模板】多重背包问题（强化版）                 |
+|                                |                                                              |                                                        |
+| 单调队列优化:arrow_down_small: | 单调队列优化:arrow_down_small:                               | 单调队列优化:arrow_down_small:                         |
+| 洛谷                           | https://www.luogu.com.cn/problem/U421515                     | U421515 【模板】多重背包问题（终极版）                 |
+| 洛谷                           | https://www.luogu.com.cn/problem/U312099                     | U312099 多重背包单调队列优化                           |
+| 洛谷                           | https://www.luogu.com.cn/problem/U296086                     | U296086 多重背包单调队列优化                           |
+| 洛谷                           | https://www.luogu.com.cn/problem/T343317                     | T343317 多重背包                                       |
+| 洛谷                           | https://www.luogu.com.cn/problem/T362036                     | T362036 【模板】多重背包问题                           |
+| 洛谷                           | https://www.luogu.com.cn/problem/T318392                     | T318392 0x59-单调队列优化dp-多重背包                   |
+| 洛谷                           | https://www.luogu.com.cn/problem/T318628                     | T318628 【模板】多重背包                               |
+| 洛谷                           | https://www.luogu.com.cn/problem/T557386                     | T557386 【模板】多重背包问题（强化版）/ 2025跨年祭单题 |
+| 洛谷                           | https://www.luogu.com.cn/problem/U410504                     | U410504 【模板】完全背包（加强版）                     |
+| 洛谷                           | https://www.luogu.com.cn/problem/T527363                     | T527363 多重背包                                       |
+| **变种/题单**                  | **变种/题单**                                                | **变种/题单**                                          |
+| 洛谷                           | https://www.luogu.com.cn/problem/U144996                     | U144996 多重背包（变种题）                             |
+| 洛谷                           | https://www.luogu.com.cn/training/680103                     | **背包-多重背包（题单）**                              |
+| 洛谷                           | https://www.luogu.com.cn/training/516434                     | **多重背包（题单）**                                   |
+
+
+
+
+
+
+
+### 🗂️ 5.1.4 分组背包
+
+| 来源 | 题目/题单                                                    | 说明                     |
+| :--- | :----------------------------------------------------------- | :----------------------- |
+| 牛客 | [【模板】分组背包_牛客题霸_牛客网](https://www.nowcoder.com/practice/32a6c222213c42efa902da6b5c9f8e99) | **【模板】分组背包**     |
+| 洛谷 | https://www.luogu.com.cn/problem/T506343                     | T506343 分组背包【背包】 |
+| 洛谷 | https://www.luogu.com.cn/problem/U115691                     | U115691 分组背包         |
+| 洛谷 | https://www.luogu.com.cn/problem/T616740                     | T616740 通天之分组背包   |
+| 洛谷 | https://www.luogu.com.cn/problem/U603366                     | U603366 分组背包         |
+| 洛谷 | https://www.luogu.com.cn/problem/T519115                     | T519115 通天之分组背包   |
+| 洛谷 | https://www.luogu.com.cn/problem/U560163                     | U560163 【模板】分组背包 |
+| 洛谷 | https://www.luogu.com.cn/problem/U280369                     | U280369 分组背包问题     |
+| 洛谷 | https://www.luogu.com.cn/problem/T570467                     | T570467 通天之分组背包   |
+| 洛谷 | https://www.luogu.com.cn/problem/U517864                     | U517864 分组背包         |
+| 洛谷 | https://www.luogu.com.cn/problem/U536284                     | U536284 分组背包问题     |
+| 洛谷 | https://www.luogu.com.cn/problem/P1757                       | P1757 通天之分组背包     |
+
+## 📈 5.2 线性DP问题
+
+### 🔺 5.2.1 数字三角形
+
+| 来源     | 题目/题单                                                    | 说明                                                    |
+| :------- | :----------------------------------------------------------- | :------------------------------------------------------ |
+| leetcode | [120. 三角形最小路径和 - 力扣（LeetCode）](https://leetcode.cn/problems/triangle/) | 120. 三角形最小路径和                                   |
+| 洛谷     | https://www.luogu.com.cn/problem/P1216                       | P1216 [IOI 1994 / USACO1.5] 数字三角形 Number Triangles |
+| 洛谷     | https://www.luogu.com.cn/problem/T559613                     | T559613 数字三角形 Number Triangles                     |
+| 洛谷     | https://www.luogu.com.cn/problem/U279551                     | U279551 数字三角形                                      |
+| 洛谷     | https://www.luogu.com.cn/problem/U465517                     | U465517 数字三角形（数塔问题）                          |
+| 洛谷     | https://www.luogu.com.cn/problem/U444125                     | U444125 数塔问题（IOI1994）                             |
+| 洛谷     | https://www.luogu.com.cn/problem/U218133                     | U218133 数塔问题                                        |
+| 洛谷     | https://www.luogu.com.cn/problem/U510104                     | U510104 数塔问题                                        |
+| 洛谷     | https://www.luogu.com.cn/problem/U508379                     | U508379 【基础】数塔问题                                |
+| 洛谷     | https://www.luogu.com.cn/problem/T569741                     | T569741 数塔                                            |
+| 洛谷     | https://www.luogu.com.cn/problem/U474202                     | U474202 数塔问题                                        |
+| 洛谷     | https://www.luogu.com.cn/problem/U113807                     | **U113807 数塔（升级版）（难）**                        |
+
+### 🚀 5.2.2 LIS (largest increased sequence) 最长上升子序列
+
+
+
+> [!CAUTION]
+>
+> **最长上升子序列**：子序列是由数组派生而来的序列，删除（或不删除）数组中的元素而不改变其余元素的顺序（不要求连续）。
+>
+> **最长连续递增序列**：与“最长上升子序列”的区别在于“连续”。
+
+
+
+#### ⚙️5.2.2.1 最长上升子序列 (不要求连续)
+
+| 来源     | 题目/题单                                                    | 说明                                       |
+| :------- | :----------------------------------------------------------- | :----------------------------------------- |
+| leetcode | [300. 最长递增子序列 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-increasing-subsequence/) | 300. 最长递增子序列                        |
+| 时间复杂度：$O(n^2)$ 解法 | 时间复杂度：$O(n^2)$ 解法 | 时间复杂度：$O(n^2)$ 解法 |
+| 牛客     | [最长上升子序列(一)_牛客题霸_牛客网](https://www.nowcoder.com/practice/5164f38b67f846fb8699e9352695cd2f) | **最长上升子序列(一)**                     |
+| 牛客     | [最长递增子序列（LCS）_牛客题霸_牛客网](https://www.nowcoder.com/practice/81d2608fdd644982801ae8ce88bd10a9) | **最长递增子序列（LCS）**                  |
+| 洛谷     | https://www.luogu.com.cn/problem/B3637                       | B3637 最长上升子序列                       |
+| 洛谷     | https://www.luogu.com.cn/problem/T404362                     | T404362 c++-中高-3：最长递增子序列         |
+| 洛谷     | https://www.luogu.com.cn/problem/U255571                     | U255571 最长上升子序列（基础版）           |
+| 时间复杂度：$O(n logn)$ 解法 | 时间复杂度：$O(n logn)$ 解法 | 时间复杂度：$O(n logn)$ 解法 |
+| 牛客     | [最长上升子序列(二)_牛客题霸_牛客网](https://www.nowcoder.com/practice/4af96fa010c44638a7e112abf65f7237) | **最长上升子序列(二)**                     |
+| 洛谷     | https://www.luogu.com.cn/problem/U255583                     | U255583 最长上升子序列（加强版）           |
+| 洛谷     | https://www.luogu.com.cn/problem/T562238                     | T562238 最长上升子序列【数据增强版】       |
+| **变种/综合**                | **变种/综合** | **变种/综合** |
+| 牛客     | [最长递增子序列_牛客题霸_牛客网](https://www.nowcoder.com/practice/30fb9b3cab9742ecae9acda1c75bf927) | **最长递增子序列**                         |
+| 洛谷     | https://www.luogu.com.cn/problem/U195944                     | U195944 最长上升子序列（加强）             |
+| 洛谷     | https://www.luogu.com.cn/problem/T663805                     | T663805 最长递增子序列的个数               |
+| 洛谷     | https://www.luogu.com.cn/problem/T357466                     | T357466 最长上升子序列 - 最长递增子序列 V2 |
+| 洛谷     | https://www.luogu.com.cn/training/348162                     | **1.2最长上升子序列模型（题单）**          |
+| 洛谷     | https://www.luogu.com.cn/training/448307                     | **子序列/子段相关的动态规划（题单）**      |
+
+
+
+#### 📏 5.2.2.2 最长连续递增子序列
+
+
+
+| 来源     | 题目/题单                                                    | 说明                           |
+| :------- | :----------------------------------------------------------- | :----------------------------- |
+| leetcode | [674. 最长连续递增序列 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/description/) | 674. 最长连续递增序列          |
+| 洛谷     | https://www.luogu.com.cn/problem/U563156                     | U563156 最长连续递增子序列长度 |
+
+
+
+### 🔗 5.2.3 LCS(largest common sequence) 最长公共子序列
+
+#### 📌 5.2.3.1 最长公共子串 (要求连续)
+
+
+
+| 来源     | 题目/题单                                                    | 说明                             |
+| :------- | :----------------------------------------------------------- | :------------------------------- |
+| leetcode | [718. 最长重复子数组 - 力扣（LeetCode）](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/description/) | 718. 最长重复子数组              |
+| 牛客     | [最大公共子串_牛客题霸_牛客网](https://www.nowcoder.com/practice/e947e4801fc64808b2390c1cf2754906) | **最大公共子串 **（ACM模式）     |
+| 牛客     | [最长公共子串_牛客题霸_牛客网](https://www.nowcoder.com/practice/f33f5adc55f444baa0e0ca87ad8a6aac) | **最长公共子串**（核心代码模式） |
+| 洛谷     | https://www.luogu.com.cn/problem/T493246                     | T493246 最长公共子串             |
+| 洛谷     | https://www.luogu.com.cn/problem/U396793                     | U396793 最长公共子串             |
+
+
+
+#### 🧬 5.2.3.2 最长公共子序列 (不要求连续)
+
+
+
+| 来源     | 题目/题单                                                    | 说明                                             |
+| :------- | :----------------------------------------------------------- | :----------------------------------------------- |
+| leetcode | [1143. 最长公共子序列 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-common-subsequence/) | 1143. 最长公共子序列                             |
+| 牛客     | https://www.nowcoder.com/practice/672ab5e541c64e4b9d11f66011059498 | **最长公共子序列(一)**（求子序列长度）           |
+| 牛客     | https://www.nowcoder.com/practice/c996bbb77dd447d681ec6907ccfb488a | **最长公共子序列**（求子序列长度）               |
+| 牛客     | https://www.nowcoder.com/practice/8cb175b803374e348a614e34b80ae191 | **最长公共子序列(一)**（求子序列长度）           |
+| 牛客     | https://www.nowcoder.com/practice/6d29638c85bb4ffd80c020fe244baf11 | **最长公共子序列(二)**（求子序列）               |
+| 牛客     | https://www.nowcoder.com/practice/4727c06b9ee9446cab2e859b4bb86bb8 | **最长公共子序列**（求子序列）                   |
+| 洛谷     | https://www.luogu.com.cn/problem/T482782                     | T482782 【DP】最长公共子序列                     |
+| 洛谷     | https://www.luogu.com.cn/problem/U262807                     | U262807 最长公共子序列                           |
+| 洛谷     | https://www.luogu.com.cn/problem/P1439                       | **P1439 两个排列的最长公共子序列（普及+/提高）** |
+| 洛谷     | https://www.luogu.com.cn/training/331562                     | **最长公共子序列（题单）**                       |
+
+
+
+### ✏️ 5.2.4 编辑距离
+
+
+
+| 来源     | 题目/题单                                                    | 说明                         |
+| :------- | :----------------------------------------------------------- | :--------------------------- |
+| leetcode | [392. 判断子序列 - 力扣（LeetCode）](https://leetcode.cn/problems/is-subsequence/description/) | 392. 判断子序列              |
+| 牛客     | [判断子序列_牛客题霸_牛客网](https://www.nowcoder.com/practice/39be6c2d0a9b4c30a7b04053d5960a84) | **判断子序列**               |
+|          |                                                              |                              |
+| leetcode | [583. 两个字符串的删除操作 - 力扣（LeetCode）](https://leetcode.cn/problems/delete-operation-for-two-strings/description/) | 583. 两个字符串的删除操作    |
+|          |                                                              |                              |
+| leetcode | [72. 编辑距离 - 力扣（LeetCode）](https://leetcode.cn/problems/edit-distance/description/) | 72. 编辑距离                 |
+| 牛客     | [计算字符串的编辑距离_牛客题霸_牛客网](https://www.nowcoder.com/practice/3959837097c7413a961a135d7104c314) | **计算字符串的编辑距离**     |
+| 牛客     | [最短编辑距离_牛客题霸_牛客网](https://www.nowcoder.com/practice/9649617be3bf42288f50758df4310655) | **最短编辑距离**             |
+| 牛客     | [编辑距离(一)_牛客题霸_牛客网](https://www.nowcoder.com/practice/6a1483b5be1547b1acd7940f867be0da) | **编辑距离(一)**             |
+| 牛客     | [编辑距离(二)_牛客题霸_牛客网](https://www.nowcoder.com/practice/05fed41805ae4394ab6607d0d745c8e4) | **编辑距离(二)**             |
+| 洛谷     | https://www.luogu.com.cn/problem/P2758                       | P2758 编辑距离               |
+| 洛谷     | https://www.luogu.com.cn/problem/U566633                     | U566633 字符串编辑距离       |
+| 洛谷     | https://www.luogu.com.cn/problem/U279553                     | U279553 最短编辑距离         |
+| 洛谷     | https://www.luogu.com.cn/problem/T633971                     | T633971 编辑距离             |
+| 洛谷     | https://www.luogu.com.cn/problem/T560846                     | T560846 【7-1例题B】编辑距离 |
+| 洛谷     | https://www.luogu.com.cn/problem/U627380                     | U627380 字符串编辑距离       |
+| 洛谷     | https://www.luogu.com.cn/problem/T663529                     | T663529 编辑距离             |
+| 洛谷     | https://www.luogu.com.cn/problem/U212825                     | U212825 编辑距离（动态规划） |
+| 洛谷     | https://www.luogu.com.cn/problem/T513164                     | T513164 编辑距离             |
+
+
+
+## 🧱 5.3 区间DP问题
+
+
+
+
+
+| 来源                   | 题目/题单                                                    | 说明                                       |
+| :--------------------- | :----------------------------------------------------------- | :----------------------------------------- |
+| 牛客                   | [【模板】区间dp_牛客题霸_牛客网](https://www.nowcoder.com/practice/f482a7ca9257422dbd7bd495d9d04f7a) | **【模板】区间dp**                         |
+| 牛客竞赛               | [石子合并](https://ac.nowcoder.com/acm/problem/51170)        | 石子合并                                   |
+| 洛谷                   | https://www.luogu.com.cn/problem/P1775                       | P1775 石子合并（弱化版）                   |
+| 洛谷                   | https://www.luogu.com.cn/problem/T113701                     | T113701 石子合并（简单版）                 |
+| 洛谷                   | https://www.luogu.com.cn/problem/T571370                     | T571370 石子合并（弱化版）                 |
+| 洛谷                   | https://www.luogu.com.cn/problem/U461930                     | U461930 石子合并                           |
+| 洛谷                   | https://www.luogu.com.cn/problem/U97736                      | U97736 石子合并（线性）                    |
+| 进阶:arrow_down_small: | 进阶:arrow_down_small:                                       | 进阶:arrow_down_small:                     |
+| 洛谷                   | https://www.luogu.com.cn/problem/P1880                       | P1880 [NOI1995] 石子合并（环形DP问题）     |
+| 洛谷                   | https://www.luogu.com.cn/problem/U322569                     | U322569 大石子合并（环形DP问题）           |
+| 洛谷                   | https://www.luogu.com.cn/problem/T376874                     | T376874 石子合并（环形DP问题）             |
+| 洛谷                   | https://www.luogu.com.cn/problem/T571371                     | T571371 [NOI1995] 石子合并（环形DP问题）   |
+| 洛谷                   | https://www.luogu.com.cn/problem/P5569                       | **P5569 [SDOI2008] 石子合并（省选/NOI−）** |
+| 牛客竞赛               | https://ac.nowcoder.com/acm/problem/collection/5789          | **区间dp（题单）**                         |
+| 洛谷                   | https://www.luogu.com.cn/training/4901                       | **区间DP（题单）**                         |
+| 洛谷                   | https://www.luogu.com.cn/training/78058                      | **区间DP（题单）**                         |
+
+
+
+## 🔢 5.4 计数类DP问题
+
+
+
+### 🍰 5.4.1 整数划分
+
+
+
+| 来源                       | 题目/题单                                | 说明                                     |
+| :------------------------- | :--------------------------------------- | :--------------------------------------- |
+| 背包思想:arrow_down_small: | 背包思想:arrow_down_small:               | 背包思想:arrow_down_small:               |
+| 洛谷                       | https://www.luogu.com.cn/problem/U490083 | U490083 整数划分问题                     |
+| 洛谷                       | https://www.luogu.com.cn/problem/T626668 | T626668 整数划分                         |
+| 洛谷                       | https://www.luogu.com.cn/problem/T557819 | T557819 06-02-C10-整数划分问题(递归求解) |
+| 洛谷                       | https://www.luogu.com.cn/problem/T170019 | T170019 整数划分                         |
+| 洛谷                       | https://www.luogu.com.cn/problem/U490083 | U490083 整数划分问题                     |
+| 计数dp:arrow_down_small:   | 计数dp:arrow_down_small:                 | 计数dp:arrow_down_small:                 |
+| 洛谷                       | https://www.luogu.com.cn/problem/U505981 | U505981 整数划分                         |
+| 洛谷                       | https://www.luogu.com.cn/problem/U426896 | U426896 整数划分                         |
+| 拓展:arrow_down_small:     | 拓展:arrow_down_small:                   | 拓展:arrow_down_small:                   |
+| 洛谷                       | https://www.luogu.com.cn/problem/P1025   | P1025 [NOIP 2001 提高组] 数的划分        |
+| 洛谷                       | https://www.luogu.com.cn/problem/U296470 | U296470 420.整数划分                     |
+| 题单:arrow_down_small:     | 题单:arrow_down_small:                   | 题单:arrow_down_small:                   |
+| 洛谷                       | https://www.luogu.com.cn/training/188779 | **DP & 计数（题单）**                    |
+| 洛谷                       | https://www.luogu.com.cn/training/321034 | **计数类DP（题单）**                     |
+
+
+
+
+
+## 🔟 5.5 数位统计DP问题
+
+
+
+### 📊 5.5.1 数字计数
+
+
+
+
+
+| 来源 | 题目/题单                                                    | 说明                                       |
+| :--- | :----------------------------------------------------------- | :----------------------------------------- |
+| 牛客 | https://www.nowcoder.com/practice/bb1a9efa244a4c9296390686ef17b024 | **[ZJOI2010]COUNT 数字计数**               |
+| 洛谷 | https://www.luogu.com.cn/problem/P2602                       | P2602 [ZJOI2010] 数字计数                  |
+| 洛谷 | https://www.luogu.com.cn/problem/T356040                     | T356040 [ZJOI2010] 数字计数                |
+| 洛谷 | https://www.luogu.com.cn/training/77987                      | **数位DP（题单）**                         |
+| 洛谷 | https://www.luogu.com.cn/training/150651                     | **数位dp（题单）**                         |
+| 洛谷 | https://www.luogu.com.cn/training/546190                     | **数位统计DP（题单）**                     |
+| 洛谷 | https://www.luogu.com.cn/training/754747                     | **数位统计DP（题单）**                     |
+| 洛谷 | https://www.luogu.com.cn/training/82023                      | **（提高）『数位DP』从入门到入土（题单）** |
+
+## 🗜️ 5.6 状态压缩DP问题
+
+
+
+### ⬛ 5.6.1 蒙德里安的梦想
+
+
+
+| 来源     | 题目/题单                                  | 说明                           |
+| :------- | :----------------------------------------- | :----------------------------- |
+| 牛客竞赛 | https://ac.nowcoder.com/acm/contest/1046/A | Mondriaan's Dream              |
+| 洛谷     | https://www.luogu.com.cn/problem/P10975    | P10975 Mondriaan's Dream       |
+| 洛谷     | https://www.luogu.com.cn/problem/U204941   | U204941 蒙德里安的梦想         |
+| 洛谷     | https://www.luogu.com.cn/problem/T164757   | T164757 【状压】蒙德里安的梦想 |
+| 洛谷     | https://www.luogu.com.cn/problem/U396296   | U396296 蒙德里安的梦想         |
+| 洛谷     | https://www.luogu.com.cn/problem/U606004   | U606004 蒙德里安的梦想         |
+| 洛谷     | https://www.luogu.com.cn/problem/T575094   | T575094 蒙德里安的梦想         |
+
+
+
+### 👣 5.6.2 最短 Hamilton 路径
+
+
+
+| 来源 | 题目/题单                                | 说明                      |
+| :--- | :--------------------------------------- | :------------------------ |
+| 洛谷 | https://www.luogu.com.cn/problem/P10447  | P10447 最短 Hamilton 路径 |
+| 洛谷 | https://www.luogu.com.cn/problem/U122241 | U122241 最短Hamilton路径  |
+| 洛谷 | https://www.luogu.com.cn/problem/U211878 | U211878 最短Hamilton路径  |
+| 洛谷 | https://www.luogu.com.cn/problem/U111875 | U111875 最短Hamilton路径  |
+| 洛谷 | https://www.luogu.com.cn/problem/U207388 | U207388 最短Hamilton路径  |
+| 洛谷 | https://www.luogu.com.cn/problem/U499137 | U499137 最短Hamilton路径  |
+
+
+
+### 💡 5.6.3 状压DP练习题
+
+
+
+| 来源 | 题目/题单                                | 说明                    |
+| :--- | :--------------------------------------- | :---------------------- |
+| 洛谷 | https://www.luogu.com.cn/training/75844  | 状压DP                  |
+| 洛谷 | https://www.luogu.com.cn/training/213596 | 状压 dp 练习题          |
+| 洛谷 | https://www.luogu.com.cn/training/189397 | 状压dp                  |
+| 洛谷 | https://www.luogu.com.cn/training/3121   | 状态压缩 dp             |
+| 洛谷 | https://www.luogu.com.cn/training/497743 | Flaw_Owl 的状压 DP 题单 |
+| 洛谷 | https://www.luogu.com.cn/training/43996  | 状压DP，数位DP          |
+
+
+
+## 🌳 5.7 树形dp
+
+
+
+| 来源                   | 题目/题单                                                    | 说明                               |
+| :--------------------- | :----------------------------------------------------------- | :--------------------------------- |
+| 牛客                   | https://www.nowcoder.com/practice/45c6d97dfd1044769aed5d9d3f139be1 | **上司的舞会（与树形DP没啥关系）** |
+| 牛客                   | https://www.nowcoder.com/practice/f703237089ee42d9b37e01d70e14e2fc | **没有上司的舞会**                 |
+| 洛谷                   | https://www.luogu.com.cn/problem/P1352                       | P1352 没有上司的舞会               |
+| 洛谷                   | https://www.luogu.com.cn/problem/T589016                     | T589016 没有上司的舞会             |
+| 洛谷                   | https://www.luogu.com.cn/problem/T575659                     | T575659 没有上司的舞会             |
+| 洛谷                   | https://www.luogu.com.cn/problem/T160910                     | T160910 没有上司的舞会             |
+| 洛谷                   | https://www.luogu.com.cn/problem/T570771                     | T570771 没有上司的舞会             |
+| 洛谷                   | https://www.luogu.com.cn/problem/T413403                     | T413403 没有上司的舞会             |
+| 题单:arrow_down_small: | 题单:arrow_down_small:                                       | 题单:arrow_down_small:             |
+| 洛谷                   | https://www.luogu.com.cn/training/18506                      | **树形DP模板题（题单）**           |
+| 洛谷                   | https://www.luogu.com.cn/training/196902                     | **树形DP（题单）**                 |
+| 洛谷                   | https://www.luogu.com.cn/training/11363                      | **xzy的树形dp题单（题单）**        |
+| 洛谷                   | https://www.luogu.com.cn/training/7305                       | **树形DP（题单）**                 |
+| 洛谷                   | https://www.luogu.com.cn/training/13994                      | **0x2 树形dp（题单）**             |
+
+## 🧠 5.8 记忆化搜索
+
+| 来源 | 题目/题单                                                    | 说明                    |
+| ---- | ------------------------------------------------------------ | ----------------------- |
+| 牛客 | https://www.nowcoder.com/practice/36d613e0d7c84a9ba3af3ab0047a35e0 | **滑雪**                |
+| 牛客 | https://www.nowcoder.com/practice/7205912f04974f099714d8a49f78609d | **滑雪**                |
+| 洛谷 | https://www.luogu.com.cn/problem/P1434                       | P1434 [SHOI2002] 滑雪   |
+| 洛谷 | https://www.luogu.com.cn/problem/T281705                     | T281705 [SHOI2002] 滑雪 |
+| 洛谷 | https://www.luogu.com.cn/training/240936                     | **记忆化搜索Ⅰ（题单）** |
+| 洛谷 | https://www.luogu.com.cn/training/454091                     | **记忆化搜索（题单）**  |
+| 洛谷 | https://www.luogu.com.cn/training/379482                     | **记忆化搜索（题单）**  |
+
+
+
+</details>
+
+---
+参考链接:
+
+
+
+https://www.hjw-aihub.cn/technology/acwing-base-learning
+
+
+
+[acwing 算法基础课模板](https://flowus.cn/share/85525e48-ed80-434d-81c5-0ecbec3c109f)
+
+
+
+[acwing 算法基础课模板 | HiBlog](https://zzhaire.github.io/2025/09/11/acwing-suan-fa-ji-chu-ke-mo-ban/)
+
+
+
+[Acwing算法学习 | Kennem's Blog](https://kennems.github.io/posts/tech/acwing/)
+
+
+
+[acwing算法基础课整理ACM模板 - VanHope - 博客园](https://www.cnblogs.com/vanhopex/p/16051782.html)
+
+
+
+
+[Yuki2L0ve/algorithm: There are many notes for the major algorithmic platforms are stored here.](https://github.com/Yuki2L0ve/algorithm)
+
+
+
+
+[AcWingBasicAlgorithmCourse/5动态规划/5动态规划.md at master · shinezzz/AcWingBasicAlgorithmCourse](https://github.com/shinezzz/AcWingBasicAlgorithmCourse/blob/master/5动态规划/5动态规划.md)
+
