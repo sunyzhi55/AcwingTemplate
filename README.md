@@ -1,8 +1,14 @@
+---
+date: 2025-10-21T22:01:00
+tags:
+  - C++
+  - Algorithm
+  - Data Structure
+  - AcWing Template
+  - Study Notes
+---
 
 
-
-
-# 🚀 AcWing 算法模板库
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:23255B,35:7A00B7,100:00D4FF&height=230&text=🚀%20AcWing%20算法模板库&desc=Keep%20AC-ing!&descAlign=50&descAlignY=75&fontSize=56&fontColor=E1B8FF&fontAlignY=42&animation=twinkling" alt="AcWing 算法模板库 Banner"/>
@@ -39,9 +45,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&weight=600&duration=3500&pause=500&color=9D7AFF&center=true&vCenter=true&width=500&lines=💡+Talk+is+cheap;+🚀Show+me+the+code!;+👾+From+Algorithm+to+Infinity.">
 </h1>  -->
 
+<p align="center"><strong>📅 项目时间：2025.10.21 — 2025.11.17 · 已完成</strong></p>
 
 
 ---
+
+
+
+# 🚀 AcWing 算法模板库
 
 
 
@@ -64,6 +75,8 @@
 ---
 
 ## 📖 项目简介
+
+> **项目构建时间：2025年10月21日-2025年11月17日。**
 
 **AcWing 算法模板库** 是一个面向算法学习者的系统化学习项目，基于 [AcWing](https://www.acwing.com/) 的课程内容整理而成。 
 项目旨在帮助你从零构建算法体系，理解算法背后的思想，掌握可直接上手的模板，实现“从入门到竞赛级”的跃迁。
@@ -249,3 +262,35 @@ AcwingTemplate/
 ## Star History
 
 ![AcwingTemplate](https://api.star-history.com/svg?repos=sunyzhi55/AcwingTemplate&type=date&legend=top-left)
+
+
+
+## 参考链接
+
+
+
+https://www.hjw-aihub.cn/technology/acwing-base-learning
+
+
+
+[acwing 算法基础课模板](https://flowus.cn/share/85525e48-ed80-434d-81c5-0ecbec3c109f)
+
+
+
+[acwing 算法基础课模板 | HiBlog](https://zzhaire.github.io/2025/09/11/acwing-suan-fa-ji-chu-ke-mo-ban/)
+
+
+
+[Acwing算法学习 | Kennem's Blog](https://kennems.github.io/posts/tech/acwing/)
+
+
+
+[acwing算法基础课整理ACM模板 - VanHope - 博客园](https://www.cnblogs.com/vanhopex/p/16051782.html)
+
+
+
+[Yuki2L0ve/algorithm: There are many notes for the major algorithmic platforms are stored here.](https://github.com/Yuki2L0ve/algorithm)
+
+
+
+[shinezzz/AcWingBasicAlgorithmCourse: ACWing 算法基础课 Java 版笔记](https://github.com/shinezzz/AcWingBasicAlgorithmCourse/)

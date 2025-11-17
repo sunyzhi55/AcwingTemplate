@@ -1284,39 +1284,3 @@ tags:
 | 洛谷 | https://www.luogu.com.cn/training/1003 | 【模板】模板题单汇总！ |
 | 洛谷 | https://www.luogu.com.cn/training/7045 | 非官方模板             |
 
-
-
-
-
-参考链接:
-
-
-
-https://www.hjw-aihub.cn/technology/acwing-base-learning
-
-
-
-[acwing 算法基础课模板](https://flowus.cn/share/85525e48-ed80-434d-81c5-0ecbec3c109f)
-
-
-
-[acwing 算法基础课模板 | HiBlog](https://zzhaire.github.io/2025/09/11/acwing-suan-fa-ji-chu-ke-mo-ban/)
-
-
-
-[Acwing算法学习 | Kennem's Blog](https://kennems.github.io/posts/tech/acwing/)
-
-
-
-[acwing算法基础课整理ACM模板 - VanHope - 博客园](https://www.cnblogs.com/vanhopex/p/16051782.html)
-
-
-
-
-[Yuki2L0ve/algorithm: There are many notes for the major algorithmic platforms are stored here.](https://github.com/Yuki2L0ve/algorithm)
-
-
-
-
-[AcWingBasicAlgorithmCourse/5动态规划/5动态规划.md at master · shinezzz/AcWingBasicAlgorithmCourse](https://github.com/shinezzz/AcWingBasicAlgorithmCourse/blob/master/5动态规划/5动态规划.md)
-
