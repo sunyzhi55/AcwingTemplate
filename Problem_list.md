@@ -81,6 +81,13 @@ tags:
 
 | 来源 | 题目/题单                                                    | 说明                       |
 | ---- | ------------------------------------------------------------ | -------------------------- |
+| 牛客 | [排序（归并排序）_牛客题霸_牛客网](https://www.nowcoder.com/practice/bc25055fb97e4a0bb564cb4b214ffa92) | **排序（归并排序）**       |
+| 洛谷 | https://www.luogu.com.cn/problem/U232725                     | U232725 【模板】归并排序   |
+| 洛谷 | https://www.luogu.com.cn/problem/U175650                     | U175650 【模板】归并排序   |
+| 洛谷 | https://www.luogu.com.cn/problem/T323776                     | T323776 归并               |
+| 洛谷 | https://www.luogu.com.cn/problem/T345322                     | T345322 【1-4例题A】归并   |
+| 洛谷 | https://www.luogu.com.cn/problem/U223709                     | U223709 归并排序           |
+| 洛谷 | https://www.luogu.com.cn/problem/T588262                     | T588262 归并排序           |
 | 洛谷 | [快速排序和归并排序 - 题单 - 洛谷](https://www.luogu.com.cn/training/784214) | 快速排序和归并排序（题单） |
 | 洛谷 | [归并排序 - 题单 - 洛谷](https://www.luogu.com.cn/training/13545) | 归并排序（题单）           |
 | 洛谷 | https://www.luogu.com.cn/training/107                        | 【算法1-2】排序（题单）    |
